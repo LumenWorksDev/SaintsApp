@@ -1,0 +1,3154 @@
+{
+    "prayers": [
+        {
+            "saint_id": "st_michael",
+            "title": "Shield at Sunrise",
+            "prayer_text": "O glorious Prince of the heavenly host, stand before me as the sun rises and cast the shadow of your wings over my fragile heart. Defend me in the day's coming battle, that I may not perish in the snares of the enemy but walk boldly in the light of Christ. Be my safeguard, that I may serve the Lord without fear.",
+            "tags": [
+                "protection",
+                "courage"
+            ],
+            "biblical_reference": "Psalm 91:4",
+            "time_of_day": "morning",
+            "scripture": "He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 1
+        },
+        {
+            "saint_id": "st_michael",
+            "title": "Calm Against the Storm",
+            "prayer_text": "Great Archangel, whose sword pierced the darkness, sever the cords of anxiety that bind my chest this morning. Whisper the peace of God into my soul, silencing the whispers of fear that seek to drown my faith. Stand guard over my mind, that I may rest in the assurance of His love.",
+            "tags": [
+                "anxiety",
+                "peace"
+            ],
+            "biblical_reference": "Philippians 4:7",
+            "time_of_day": "morning",
+            "scripture": "And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 2
+        },
+        {
+            "saint_id": "st_michael",
+            "title": "Strength for the Toil",
+            "prayer_text": "Saint Michael, loyal defender of the truth, accompany me into my labors this day, for the harvest is great but my strength is small. Let my work be an offering pure and undefiled, protected from the stains of pride and sloth. Guide my hands, that they may build the Kingdom in the seemingly small duties of this hour.",
+            "tags": [
+                "work",
+                "guidance"
+            ],
+            "biblical_reference": "Colossians 3:23",
+            "time_of_day": "morning",
+            "scripture": "And whatsoever ye do, do it heartily, as to the Lord, and not unto men; ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 3
+        },
+        {
+            "saint_id": "st_michael",
+            "title": "Guardian of the Hearth",
+            "prayer_text": "O Watchman of the Lord's flock, place your fiery sword at the threshold of my home, guarding my family from all spiritual malice. Let no evil enter this dwelling, but keep us united in charity and grace as we begin our day. Intercede for us, that we may mirror the Holy Family in love and virtue.",
+            "tags": [
+                "family",
+                "protection"
+            ],
+            "biblical_reference": "Joshua 24:15",
+            "time_of_day": "morning",
+            "scripture": "And if it seem evil unto you to serve the LORD, choose you this day whom ye will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the LORD. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 4
+        },
+        {
+            "saint_id": "st_michael",
+            "title": "Breaking the Chains",
+            "prayer_text": "Mighty Victor over the dragon, I cry out to you from the depths of my struggle; lend me your strength to crush the serpent of addiction beneath my feet. When the temptation rises with the morning light, be my fortress and my deliverer. Obtain for me the grace of true freedom, that I may live only for God.",
+            "tags": [
+                "addiction",
+                "hope"
+            ],
+            "biblical_reference": "Galatians 5:1",
+            "time_of_day": "morning",
+            "scripture": "Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 5
+        },
+        {
+            "saint_id": "st_michael",
+            "title": "Midday Defense",
+            "prayer_text": "O Saint Michael, as the sun reaches its height and the heat of the day wearies my spirit, be my cool shade and my defense. Ward off the arrows that fly by day and keep my heart steadfast in the love of Jesus. Do not let me stumble in the path of righteousness.",
+            "tags": [
+                "protection",
+                "peace"
+            ],
+            "biblical_reference": "Psalm 121:5-6",
+            "time_of_day": "afternoon",
+            "scripture": "5The LORD is thy keeper: the LORD is thy shade upon thy right hand.\n\n6The sun shall not smite thee by day, nor the moon by night.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 6
+        },
+        {
+            "saint_id": "st_michael",
+            "title": "Solace in Sorrow",
+            "prayer_text": "Angel of Peace, come to me in this valley of tears and carry my grief to the throne of the Most High. When my heart is heavy and the loss feels too great to bear, remind me of the resurrection and the eternal victory of Christ. Surround me with your presence, that I may not mourn as one without hope.",
+            "tags": [
+                "grief",
+                "hope"
+            ],
+            "biblical_reference": "1 Thessalonians 4:13",
+            "time_of_day": "afternoon",
+            "scripture": "But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 7
+        },
+        {
+            "saint_id": "st_michael",
+            "title": "Companion to the Lonely",
+            "prayer_text": "O celestial friend, when the silence of this afternoon feels oppressive, remind me that I am surrounded by the cloud of witnesses. Walk beside me, Saint Michael, so I may know I am never truly alone in the spiritual combat. Let your strength be my company and your prayers my comfort.",
+            "tags": [
+                "loneliness",
+                "courage"
+            ],
+            "biblical_reference": "Hebrews 12:1",
+            "time_of_day": "afternoon",
+            "scripture": "Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us, ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 8
+        },
+        {
+            "saint_id": "st_michael",
+            "title": "Healing of the Spirit",
+            "prayer_text": "Saint Michael, physician of souls in the spiritual war, look upon my wounds with compassion and drive away the spirits of despair. Ask the Divine Healer to pour His balm upon my brokenness, restoring my vigor for the journey ahead. Protect my recovery, that I may rise again to praise the Lord.",
+            "tags": [
+                "healing",
+                "hope"
+            ],
+            "biblical_reference": "Jeremiah 17:14",
+            "time_of_day": "afternoon",
+            "scripture": "Heal me, O LORD, and I shall be healed; save me, and I shall be saved: for thou art my praise.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 9
+        },
+        {
+            "saint_id": "st_michael",
+            "title": "Light for the Path",
+            "prayer_text": "Standard-bearer of salvation, the day is waning and confusion seeks to cloud my judgment; hold high the cross before my eyes. Grant me the courage to make the right choices this afternoon, rejecting the easy path for the narrow way. Illuminate my steps, that I may not wander into the darkness.",
+            "tags": [
+                "guidance",
+                "courage"
+            ],
+            "biblical_reference": "Psalm 119:105",
+            "time_of_day": "afternoon",
+            "scripture": "\u05e0 NUN.\n\n105Thy word is a lamp unto my feet, and a light unto my path.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 10
+        },
+        {
+            "saint_id": "st_christopher",
+            "title": "Safe Passage at Dawn",
+            "prayer_text": "O Saint Christopher, you who bore the weight of the world's Savior, carry me safely to my destination this morning. As I set out upon the road, protect me from all harm and sudden danger. Let my journey be a path of peace, that I may arrive ready to serve the Lord.",
+            "tags": [
+                "protection",
+                "work"
+            ],
+            "biblical_reference": "Psalm 121:8",
+            "time_of_day": "morning",
+            "scripture": "The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 11
+        },
+        {
+            "saint_id": "st_christopher",
+            "title": "Ford the River of Anxiety",
+            "prayer_text": "O Christ-bearer, the waters of anxiety rise early to overwhelm my soul; lend me your strength to stand firm in the current. Intercede for me, that I may trust that the heavy burden I carry is shared by the Child Jesus. Guide my steps through the mist of fear into the light of confidence.",
+            "tags": [
+                "anxiety",
+                "courage"
+            ],
+            "biblical_reference": "Isaiah 43:2",
+            "time_of_day": "morning",
+            "scripture": "When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 12
+        },
+        {
+            "saint_id": "st_christopher",
+            "title": "Guardian of the Family",
+            "prayer_text": "Saint Christopher, watchful guardian, I entrust my family to your care as they depart our home this day. Shield them in their going out and their coming in, keeping them safe from the snares of the enemy and the perils of the world. May we all reunite in joy when the evening comes.",
+            "tags": [
+                "family",
+                "protection"
+            ],
+            "biblical_reference": "Tobit 5:16",
+            "time_of_day": "morning",
+            "scripture": "So they were well pleased. Then said he to Tobias, Prepare thyself for the journey, and God send you a good journey. And when his son had prepared all things for the journey, his father said, Go thou with this man, and God, which dwelleth in heaven, prosper your journey, and the angel of God keep you company. So they went forth both, and the young man\u2019s dog with them.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 13
+        },
+        {
+            "saint_id": "st_christopher",
+            "title": "Compass of Hope",
+            "prayer_text": "O strong patron, I stand at the crossroads of a new day, uncertain of the path; show me the way that leads to life. You who found Christ in serving others, help me to find Him in the duties that await me. Let hope be my compass and faith my staff.",
+            "tags": [
+                "guidance",
+                "hope"
+            ],
+            "biblical_reference": "Psalm 25:4",
+            "time_of_day": "morning",
+            "scripture": "Shew me thy ways, O LORD; teach me thy paths.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 14
+        },
+        {
+            "saint_id": "st_christopher",
+            "title": "Strength Against Temptation",
+            "prayer_text": "Saint Christopher, you know the weight of a heavy burden; help me carry this cross of addiction without stumbling this morning. Pray that I may have the strength to ford this river of temptation and reach the solid ground of sobriety. Let me lean on your intercession when my legs grow weak.",
+            "tags": [
+                "addiction",
+                "courage"
+            ],
+            "biblical_reference": "Matthew 11:28",
+            "time_of_day": "morning",
+            "scripture": "\u00b6 Come unto me, all ye that labour and are heavy laden, and I will give you rest. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 15
+        },
+        {
+            "saint_id": "st_christopher",
+            "title": "Midday Strength",
+            "prayer_text": "O Saint Christopher, the current is strong and my shoulders ache with the day's toil; support me lest I sink beneath the waters. Remind me that in serving my neighbor, I carry the Christ Child just as you did. Renew my strength to finish this crossing with dignity and grace.",
+            "tags": [
+                "work",
+                "healing"
+            ],
+            "biblical_reference": "Galatians 6:9",
+            "time_of_day": "afternoon",
+            "scripture": "And let us not be weary in well doing: for in due season we shall reap, if we faint not. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 16
+        },
+        {
+            "saint_id": "st_christopher",
+            "title": "Companion on the Road",
+            "prayer_text": "Gentle giant of God, the road is long and silence surrounds me; be my companion in this afternoon solitude. Whisper to my heart that the Lord is near, walking beside me even when I cannot see Him. Drive away the shadows of isolation with the light of your fellowship.",
+            "tags": [
+                "loneliness",
+                "peace"
+            ],
+            "biblical_reference": "Psalm 23:4",
+            "time_of_day": "afternoon",
+            "scripture": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 17
+        },
+        {
+            "saint_id": "st_christopher",
+            "title": "Bearing the Weight of Grief",
+            "prayer_text": "O Saint Christopher, this grief is a weight heavier than the world; help me to bear it without despairing. Carry my sorrow to the feet of the Infant Jesus, who turns mourning into dancing. Hold me up, for the waters of sadness threaten to sweep me away.",
+            "tags": [
+                "grief",
+                "hope"
+            ],
+            "biblical_reference": "Psalm 34:18",
+            "time_of_day": "afternoon",
+            "scripture": "The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 18
+        },
+        {
+            "saint_id": "st_christopher",
+            "title": "Peace Amidst the Rush",
+            "prayer_text": "Patron of travelers, amidst the noise and haste of this afternoon, grant me a spirit of patience and inner calm. Protect me from anger when the way is blocked, and let me see Christ in every stranger I meet on the road. Steer my heart into the harbor of God\u2019s peace.",
+            "tags": [
+                "peace",
+                "protection"
+            ],
+            "biblical_reference": "Colossians 3:15",
+            "time_of_day": "afternoon",
+            "scripture": "And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 19
+        },
+        {
+            "saint_id": "st_christopher",
+            "title": "Healing from the Journey",
+            "prayer_text": "O blessed Saint, as the sun begins to lower, look upon the wounds I have gathered on this journey. Intercede for my healing, that I may not be broken by the roughness of the road but refined by it. Lead me safely to the rest that awaits the faithful servant.",
+            "tags": [
+                "healing",
+                "protection"
+            ],
+            "biblical_reference": "Jeremiah 30:17",
+            "time_of_day": "afternoon",
+            "scripture": "For I will restore health unto thee, and I will heal thee of thy wounds, saith the LORD; because they called thee an Outcast, saying, This is Zion, whom no man seeketh after.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 20
+        },
+        {
+            "saint_id": "st_jude",
+            "title": "Hope for the Impossible",
+            "prayer_text": "O Saint Jude, Apostle of Hope, as the dawn breaks upon a situation that feels impossible, I turn to you. Intercede for me in this desperate hour, that I may not be crushed by the weight of the day but lifted by the grace of God. Remind my weary heart that with Christ, no cause is ever truly lost.",
+            "tags": [
+                "hope",
+                "courage"
+            ],
+            "biblical_reference": "Luke 1:37",
+            "time_of_day": "morning",
+            "scripture": "For with God nothing shall be impossible. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 21
+        },
+        {
+            "saint_id": "st_jude",
+            "title": "Courage to Begin",
+            "prayer_text": "O glorious Saint Jude, faithful servant and friend of Jesus, walk with me into the labors of this day where the path seems hidden. Quell the rising tide of anxiety within me, and obtain for me the wisdom to navigate these difficulties. Let my work be a testament to trust, knowing you stand beside me.",
+            "tags": [
+                "work",
+                "anxiety"
+            ],
+            "biblical_reference": "Matthew 6:34",
+            "time_of_day": "morning",
+            "scripture": "Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 22
+        },
+        {
+            "saint_id": "st_jude",
+            "title": "Strength Against Chains",
+            "prayer_text": "Saint Jude, helper of the helpless, I wake facing the chains that have bound me for so long. Beg the Lord to grant me the strength to resist the first temptation of this day, for my own will is frail. Be my anchor in this storm of addiction, that I may breathe the fresh air of freedom.",
+            "tags": [
+                "addiction",
+                "healing"
+            ],
+            "biblical_reference": "2 Corinthians 12:9",
+            "time_of_day": "morning",
+            "scripture": "And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 23
+        },
+        {
+            "saint_id": "st_jude",
+            "title": "Harmony in the Home",
+            "prayer_text": "O kinsman of the Lord, look with favor upon my family as we scatter to our various duties this morning. When discord or danger threatens to sever our bonds, pray that the peace of Christ may reign in our hearts. Guard our home, that it may be a sanctuary of love and forgiveness.",
+            "tags": [
+                "family",
+                "protection"
+            ],
+            "biblical_reference": "Psalm 133:1",
+            "time_of_day": "morning",
+            "scripture": "A Song of degrees of David.\n\n1Behold, how good and how pleasant it is for brethren to dwell together in unity!",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 24
+        },
+        {
+            "saint_id": "st_jude",
+            "title": "Light in Confusion",
+            "prayer_text": "Saint Jude, whose name is invoked by the desperate, guide my steps this morning as I stand before a mountain of uncertainty. Pray that the Holy Spirit may level the ground before me and grant me the clarity to see God's will. Do not let me stumble in the fog of confusion.",
+            "tags": [
+                "guidance",
+                "hope"
+            ],
+            "biblical_reference": "Proverbs 3:5-6",
+            "time_of_day": "morning",
+            "scripture": "5\u00b6 Trust in the LORD with all thine heart; and lean not unto thine own understanding. 6In all thy ways acknowledge him, and he shall direct thy paths.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 25
+        },
+        {
+            "saint_id": "st_jude",
+            "title": "Solace for the Lonely",
+            "prayer_text": "O Saint Jude, companion of the lonely Christ in His passion, come to me in the silence of this afternoon. When the world feels distant and friends are few, remind me that I am never abandoned by the Father. Wrap me in your prayers, that I may feel the warmth of divine friendship.",
+            "tags": [
+                "loneliness",
+                "peace"
+            ],
+            "biblical_reference": "Psalm 27:10",
+            "time_of_day": "afternoon",
+            "scripture": "When my father and my mother forsake me, then the LORD will take me up.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 26
+        },
+        {
+            "saint_id": "st_jude",
+            "title": "Balm for the Grieving",
+            "prayer_text": "Blessed Apostle, you who comforted the early Church in its trials, be near me as the shadows lengthen and my grief returns. The loss I carry is a heavy stone; help me roll it to the feet of Jesus, the Resurrection and the Life. Obtain for me the balm of consolation, that I may find peace in His promise.",
+            "tags": [
+                "grief",
+                "healing"
+            ],
+            "biblical_reference": "Matthew 5:4",
+            "time_of_day": "afternoon",
+            "scripture": "Blessed are they that mourn: for they shall be comforted. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 27
+        },
+        {
+            "saint_id": "st_jude",
+            "title": "Unknotting the Worry",
+            "prayer_text": "Saint Jude, calmness in the storm, the cares of this day have tangled my spirit in knots of worry. Untie these burdens with your powerful intercession and deliver me from the paralysis of fear. Let the peace that surpasses all understanding guard my heart as the evening approaches.",
+            "tags": [
+                "anxiety",
+                "peace"
+            ],
+            "biblical_reference": "John 14:27",
+            "time_of_day": "afternoon",
+            "scripture": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 28
+        },
+        {
+            "saint_id": "st_jude",
+            "title": "Perseverance in Duty",
+            "prayer_text": "O brave Martyr, the day's battle has worn me down, and I am tempted to surrender to mediocrity; renew my courage. Pray that I may persevere in my duties until the end, standing firm in the truth even when the world stands against me. Let me finish the course with faith.",
+            "tags": [
+                "courage",
+                "work"
+            ],
+            "biblical_reference": "2 Timothy 4:7",
+            "time_of_day": "afternoon",
+            "scripture": "I have fought a good fight, I have finished my course, I have kept the faith: ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 29
+        },
+        {
+            "saint_id": "st_jude",
+            "title": "Refuge at Twilight",
+            "prayer_text": "Saint Jude, tower of strength, as the sun begins to set, I seek refuge under your patronage. Defend me from the snares that lurk in the twilight and keep the flame of hope alive within my breast. May I rest in the assurance that God's mercy is greater than any danger.",
+            "tags": [
+                "protection",
+                "hope"
+            ],
+            "biblical_reference": "Psalm 91:11",
+            "time_of_day": "afternoon",
+            "scripture": "For he shall give his angels charge over thee, to keep thee in all thy ways.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 30
+        },
+        {
+            "saint_id": "st_joseph",
+            "title": "Carpenter's Morning Offering",
+            "prayer_text": "O Saint Joseph, model of all who labor, guide my hands as I pick up my tools this morning. Help me to work with the dignity and patience you showed in Nazareth, offering my toil as a prayer to God. Let me see Christ in the service I render today, that my work may be holy.",
+            "tags": [
+                "work",
+                "guidance"
+            ],
+            "biblical_reference": "Colossians 3:23",
+            "time_of_day": "morning",
+            "scripture": "And whatsoever ye do, do it heartily, as to the Lord, and not unto men; ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 31
+        },
+        {
+            "saint_id": "st_joseph",
+            "title": "Shield of the Holy Family",
+            "prayer_text": "Guardian of the Redeemer, I place my family under your cloak as the day begins. Protect our home from the storms of the world just as you shielded Jesus and Mary from Herod's wrath. May our household be a sanctuary of peace and virtue.",
+            "tags": [
+                "family",
+                "protection"
+            ],
+            "biblical_reference": "Matthew 2:13",
+            "time_of_day": "morning",
+            "scripture": "And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 32
+        },
+        {
+            "saint_id": "st_joseph",
+            "title": "Quiet Trust in Anxiety",
+            "prayer_text": "O Prudent Guardian, the unknown of this new day fills me with unease; lend me your quiet strength. You trusted the angel's whisper in the dark; help me to trust God's providence now. Silence my anxious thoughts that I may hear the Father's will.",
+            "tags": [
+                "anxiety",
+                "peace"
+            ],
+            "biblical_reference": "Matthew 1:20",
+            "time_of_day": "morning",
+            "scripture": "But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 33
+        },
+        {
+            "saint_id": "st_joseph",
+            "title": "Courage to Lead",
+            "prayer_text": "Saint Joseph, pillar of families, grant me the courage to lead and serve with humility this morning. When I feel weak or incapable, remind me that God chose a humble carpenter to guard His greatest treasures. Strengthen my will to do what is right, not what is easy.",
+            "tags": [
+                "courage",
+                "guidance"
+            ],
+            "biblical_reference": "Joshua 1:9",
+            "time_of_day": "morning",
+            "scripture": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 34
+        },
+        {
+            "saint_id": "st_joseph",
+            "title": "Anchor of Hope",
+            "prayer_text": "Faithful Joseph, as the sun rises, I look to your example of silent hope. Though the path ahead is not always clear, pray that I may walk by faith and not by sight. Anchor my heart in the promises of Christ, who grew in wisdom under your care.",
+            "tags": [
+                "hope",
+                "guidance"
+            ],
+            "biblical_reference": "2 Corinthians 5:7",
+            "time_of_day": "morning",
+            "scripture": "(For we walk by faith, not by sight:) ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 35
+        },
+        {
+            "saint_id": "st_joseph",
+            "title": "Strength for the Weary",
+            "prayer_text": "Glorious Saint Joseph, the day is long and my energy fades; be near me in the weariness of labor. You knew the weight of the wood and the sweat of the brow; obtain for me the grace of endurance. Let me finish this day's work with integrity and love.",
+            "tags": [
+                "work",
+                "courage"
+            ],
+            "biblical_reference": "Matthew 11:28",
+            "time_of_day": "afternoon",
+            "scripture": "\u00b6 Come unto me, all ye that labour and are heavy laden, and I will give you rest. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 36
+        },
+        {
+            "saint_id": "st_joseph",
+            "title": "Terror of Demons",
+            "prayer_text": "Terror of Demons, the shadows of temptation grow long this afternoon; stand between me and the snares of addiction. Your purity terrified the spirits of darkness; lend me your shield to deflect these fiery darts. Help me remain steadfast in my resolve to live for God alone.",
+            "tags": [
+                "addiction",
+                "protection"
+            ],
+            "biblical_reference": "1 Peter 5:8",
+            "time_of_day": "afternoon",
+            "scripture": "Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour: ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 37
+        },
+        {
+            "saint_id": "st_joseph",
+            "title": "The Silent Companion",
+            "prayer_text": "Saint Joseph, silent companion of the Incarnate Word, come to me in this afternoon solitude. When I feel unnoticed by the world, remind me that the most important work is often done in hidden silence. Comfort my heart with the knowledge that I am part of the Holy Family of God.",
+            "tags": [
+                "loneliness",
+                "peace"
+            ],
+            "biblical_reference": "Psalm 68:6",
+            "time_of_day": "afternoon",
+            "scripture": "God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry land.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 38
+        },
+        {
+            "saint_id": "st_joseph",
+            "title": "Comfort in Sorrow",
+            "prayer_text": "O Comfort of the Afflicted, you who surely grieved the hardships of your exile, look with pity on my sorrow. Hold my hand as I navigate this valley of loss, pointing me always toward the eternal home you now enjoy. Ask Jesus to wipe away the tears that cloud my vision.",
+            "tags": [
+                "grief",
+                "hope"
+            ],
+            "biblical_reference": "Revelation 21:4",
+            "time_of_day": "afternoon",
+            "scripture": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 39
+        },
+        {
+            "saint_id": "st_joseph",
+            "title": "Restoration of Health",
+            "prayer_text": "Gentle Father, my body and spirit ache; intercede for my healing before the throne of your Son. Teach me the patience you possessed in the workshop, shaving away my imperfections through this trial. May this suffering be transformed into grace through your prayers.",
+            "tags": [
+                "healing",
+                "peace"
+            ],
+            "biblical_reference": "James 5:16",
+            "time_of_day": "afternoon",
+            "scripture": "Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 40
+        },
+        {
+            "saint_id": "st_mary",
+            "title": "Mantle of the Morning",
+            "prayer_text": "O Blessed Mother, spread your mantle over my family as we begin this new day, keeping us safe from all harm. Just as you nurtured the Child Jesus in Nazareth, watch over our home and fill it with the warmth of your love. May we walk together in grace, mirroring the virtues of the Holy Family.",
+            "tags": [
+                "family",
+                "protection"
+            ],
+            "biblical_reference": "Luke 2:51",
+            "time_of_day": "morning",
+            "scripture": "And he went down with them, and came to Nazareth, and was subject unto them: but his mother kept all these sayings in her heart. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 41
+        },
+        {
+            "saint_id": "st_mary",
+            "title": "The Fiat of Peace",
+            "prayer_text": "Mother of Peace, my heart is troubled by the cares of the coming day; teach me to trust as you did at the Annunciation. Calm the storms of anxiety within me, that I may offer my own 'yes' to God without fear. Hold my hand, that I may walk steadily in the light of your Son.",
+            "tags": [
+                "anxiety",
+                "peace"
+            ],
+            "biblical_reference": "Luke 1:38",
+            "time_of_day": "morning",
+            "scripture": "And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 42
+        },
+        {
+            "saint_id": "st_mary",
+            "title": "Grace at Cana",
+            "prayer_text": "O Virgin most prudent, guide my actions this morning so that my work may be pleasing to the Lord. Whisper to Jesus on my behalf when my strength fails, just as you interceded at Cana. Help me to do whatever He tells me, transforming my ordinary labor into spiritual grace.",
+            "tags": [
+                "work",
+                "guidance"
+            ],
+            "biblical_reference": "John 2:5",
+            "time_of_day": "morning",
+            "scripture": "His mother saith unto the servants, Whatsoever he saith unto you, do it. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 43
+        },
+        {
+            "saint_id": "st_mary",
+            "title": "Star of the Sea",
+            "prayer_text": "Star of the Sea, shine upon my path this morning and lead me through the waves of uncertainty. When I feel weak, remind me that you are my mother and I am your child, never abandoned. Grant me the courage to face the world with the hope of Christ anchored in my heart.",
+            "tags": [
+                "hope",
+                "courage"
+            ],
+            "biblical_reference": "John 19:27",
+            "time_of_day": "morning",
+            "scripture": "Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own home.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 44
+        },
+        {
+            "saint_id": "st_mary",
+            "title": "Refuge of Sinners",
+            "prayer_text": "Immaculate Mother, as dawn breaks on my struggle against these chains, obtain for me the grace of purity and strength. Crush the serpent of temptation beneath your heel before it can strike my will. I take refuge in your Immaculate Heart, the safe harbor where my addiction cannot reach me.",
+            "tags": [
+                "addiction",
+                "protection"
+            ],
+            "biblical_reference": "Genesis 3:15",
+            "time_of_day": "morning",
+            "scripture": "And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 45
+        },
+        {
+            "saint_id": "st_mary",
+            "title": "Mother of Sorrows",
+            "prayer_text": "Mother of Sorrows, you stood at the foot of the Cross; stand now beside me in my own time of grief. Take this pain that weighs down my afternoon and unite it with the suffering of your Son for the redemption of the world. Wipe away my tears, for you know well the ache of a pierced heart.",
+            "tags": [
+                "grief",
+                "healing"
+            ],
+            "biblical_reference": "John 19:25",
+            "time_of_day": "afternoon",
+            "scripture": "\u00b6 Now there stood by the cross of Jesus his mother, and his mother\u2019s sister, Mary the wife of Cleophas, and Mary Magdalene. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 46
+        },
+        {
+            "saint_id": "st_mary",
+            "title": "The Gentle Visitation",
+            "prayer_text": "O Sweet Virgin Mary, the day drags on and I feel the sting of loneliness; come to me as you went to Elizabeth. Let me feel the warmth of your maternal presence, filling the silence with the joy of your Magnificat. Remind me that I am never alone when I am with you and your Son.",
+            "tags": [
+                "loneliness",
+                "hope"
+            ],
+            "biblical_reference": "Luke 1:40",
+            "time_of_day": "afternoon",
+            "scripture": "And entered into the house of Zacharias, and saluted Elisabeth. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 47
+        },
+        {
+            "saint_id": "st_mary",
+            "title": "Sanctuary of Peace",
+            "prayer_text": "Holy Queen, as the sun beats down and the world grows noisy, be my refuge and my fortress against stress. Cover me with your grace, deflecting the arrows of irritation and fatigue that fly by day. Keep my heart centered on Jesus, the Prince of Peace, amidst the chaos.",
+            "tags": [
+                "peace",
+                "protection"
+            ],
+            "biblical_reference": "Psalm 91:4",
+            "time_of_day": "afternoon",
+            "scripture": "He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 48
+        },
+        {
+            "saint_id": "st_mary",
+            "title": "Health of the Sick",
+            "prayer_text": "Health of the Sick, look with mercy upon my infirmities as the day wears on. Intercede with your Divine Son for the healing of my body and spirit, that I may serve Him with renewed vigor. Wrap me in your love, that I may find strength to endure this trial with patience.",
+            "tags": [
+                "healing",
+                "courage"
+            ],
+            "biblical_reference": "James 5:15",
+            "time_of_day": "afternoon",
+            "scripture": "And the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 49
+        },
+        {
+            "saint_id": "st_mary",
+            "title": "Seat of Wisdom",
+            "prayer_text": "Seat of Wisdom, the day's decisions weigh heavy on my mind; lend me your clarity and prudence. Direct my steps away from error and towards the truth of Christ, my Way and my Life. Help me to finish the day's race with the same love with which I began it.",
+            "tags": [
+                "guidance",
+                "work"
+            ],
+            "biblical_reference": "Proverbs 8:17",
+            "time_of_day": "afternoon",
+            "scripture": "I love them that love me; and those that seek me early shall find me. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 50
+        },
+        {
+            "saint_id": "st_anthony",
+            "title": "Finding Peace at Dawn",
+            "prayer_text": "O gentle Saint Anthony, known for restoring what is lost, find my peace amidst the anxiety of this new morning. When worry clouds my vision, guide my heart back to the assurance of God's love. Hold me in your prayers, that I may begin this day with a spirit of trust.",
+            "tags": [
+                "anxiety",
+                "hope"
+            ],
+            "biblical_reference": "Matthew 6:33",
+            "time_of_day": "morning",
+            "scripture": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 51
+        },
+        {
+            "saint_id": "st_anthony",
+            "title": "Blessing the Work of Hands",
+            "prayer_text": "Glorious Saint Anthony, tongue of fire and preacher of grace, bless the work of my hands as I step into this day. Let my actions speak the Gospel even when my words are few, guiding me to serve with integrity and love. Help me to find Christ in every task I undertake.",
+            "tags": [
+                "work",
+                "guidance"
+            ],
+            "biblical_reference": "1 John 3:18",
+            "time_of_day": "morning",
+            "scripture": "My little children, let us not love in word, neither in tongue; but in deed and in truth. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 52
+        },
+        {
+            "saint_id": "st_anthony",
+            "title": "Shield of the Household",
+            "prayer_text": "O Saint of Miracles, I entrust my family to your powerful intercession as we depart for our daily paths. Shield us from all physical and spiritual harm, keeping our hearts united in the bond of charity. May we return to this home in safety and joy when the sun sets.",
+            "tags": [
+                "family",
+                "protection"
+            ],
+            "biblical_reference": "Psalm 91:10",
+            "time_of_day": "morning",
+            "scripture": "There shall no evil befall thee, neither shall any plague come nigh thy dwelling.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 53
+        },
+        {
+            "saint_id": "st_anthony",
+            "title": "Strength to Resist",
+            "prayer_text": "Saint Anthony, conqueror of demons, stand by me as I wake to the battle against addiction. When the cravings rise with the morning light, help me find the strength I thought I had lost. Intercede for me, that I may choose the freedom of God's children over the chains of the past.",
+            "tags": [
+                "addiction",
+                "courage"
+            ],
+            "biblical_reference": "Romans 8:15",
+            "time_of_day": "morning",
+            "scripture": "For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 54
+        },
+        {
+            "saint_id": "st_anthony",
+            "title": "Hope in Infirmity",
+            "prayer_text": "Compassionate healer, Saint Anthony, look upon my infirmities with kindness as I rise. Whisper my name to the Infant Jesus you hold so tenderly, asking for the restoration of my health and spirit. Grant me the hope to face this day, knowing that suffering can be a path to grace.",
+            "tags": [
+                "healing",
+                "hope"
+            ],
+            "biblical_reference": "Jeremiah 30:17",
+            "time_of_day": "morning",
+            "scripture": "For I will restore health unto thee, and I will heal thee of thy wounds, saith the LORD; because they called thee an Outcast, saying, This is Zion, whom no man seeketh after.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 55
+        },
+        {
+            "saint_id": "st_anthony",
+            "title": "Companion in Solitude",
+            "prayer_text": "O Saint Anthony, friend of the lonely, the silence of this afternoon weighs heavy on my soul. Remind me that I am never truly alone, for God is near to the brokenhearted. Walk beside me in spirit, filling this empty space with the peace of your companionship.",
+            "tags": [
+                "loneliness",
+                "peace"
+            ],
+            "biblical_reference": "Psalm 34:18",
+            "time_of_day": "afternoon",
+            "scripture": "The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 56
+        },
+        {
+            "saint_id": "st_anthony",
+            "title": "Direction for the Lost",
+            "prayer_text": "Saint of the Lost, I feel adrift in the confusion of this day's obligations; help me rediscover the right path. Illuminate my mind with divine wisdom, that I may navigate these challenges with patience and clarity. Do not let me wander far from the will of the Father.",
+            "tags": [
+                "guidance",
+                "work"
+            ],
+            "biblical_reference": "Psalm 143:8",
+            "time_of_day": "afternoon",
+            "scripture": "Cause me to hear thy lovingkindness in the morning; for in thee do I trust: cause me to know the way wherein I should walk; for I lift up my soul unto thee.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 57
+        },
+        {
+            "saint_id": "st_anthony",
+            "title": "Consolation in Sorrow",
+            "prayer_text": "O Sweet Saint Anthony, lily of purity and consolation, come to me in this moment of grief. My heart aches for what is gone; help me to find comfort in the promise of eternal life. Cradle my sorrow in your prayers, offering it to Jesus who wipes away every tear.",
+            "tags": [
+                "grief",
+                "healing"
+            ],
+            "biblical_reference": "Matthew 5:4",
+            "time_of_day": "afternoon",
+            "scripture": "Blessed are they that mourn: for they shall be comforted. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 58
+        },
+        {
+            "saint_id": "st_anthony",
+            "title": "Fortress Against Stress",
+            "prayer_text": "Defender of the faithful, the noise of the world threatens to drown out my inner peace this afternoon. Be my fortress against the assaults of stress and irritation, preserving the sanctuary of my heart. Grant me the serenity to rest in God's providence amidst the chaos.",
+            "tags": [
+                "protection",
+                "peace"
+            ],
+            "biblical_reference": "John 14:27",
+            "time_of_day": "afternoon",
+            "scripture": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 59
+        },
+        {
+            "saint_id": "st_anthony",
+            "title": "Perseverance in Virtue",
+            "prayer_text": "O Miracle Worker, when my courage fails and the day feels endless, renew my spirit with a spark of divine hope. Help me to persevere in virtue until the evening comes, relying not on my own power but on the grace you dispense so freely. Let me not grow weary in doing good.",
+            "tags": [
+                "courage",
+                "hope"
+            ],
+            "biblical_reference": "Galatians 6:9",
+            "time_of_day": "afternoon",
+            "scripture": "And let us not be weary in well doing: for in due season we shall reap, if we faint not. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 60
+        },
+        {
+            "saint_id": "st_thomas",
+            "title": "Illumination of the Intellect",
+            "prayer_text": "O Angelic Doctor, illuminate the darkness of my intellect as the sun rises, chasing away the shadows of ignorance and sin. Grant me the clarity to see the truth in my duties today, that every action may be directed toward the glory of God. Guide my thoughts, that they may find their rest in the wisdom of the Creator.",
+            "tags": [
+                "guidance",
+                "work"
+            ],
+            "biblical_reference": "Psalm 119:130",
+            "time_of_day": "morning",
+            "scripture": "The entrance of thy words giveth light; it giveth understanding unto the simple.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 61
+        },
+        {
+            "saint_id": "st_thomas",
+            "title": "Ordering the Chaos",
+            "prayer_text": "Prince of Scholastics, order the chaos of my anxious thoughts this morning with the structure of divine peace. Let the tranquility of Christ, which surpasses all understanding, settle deep within my heart before the world rushes in. Grant me the serenity to trust in the Providence that governs all things with perfect love.",
+            "tags": [
+                "anxiety",
+                "peace"
+            ],
+            "biblical_reference": "Colossians 3:15",
+            "time_of_day": "morning",
+            "scripture": "And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 62
+        },
+        {
+            "saint_id": "st_thomas",
+            "title": "Girdle of Purity",
+            "prayer_text": "O Saint Thomas, who drove away temptation with a fiery brand, stand with me as I wake to this battle against addiction. Gird my loins with the sash of purity and strength, that I may resist the cravings that seek to enslave my will. Let my body be a temple of the Holy Spirit, undefiled and free for service.",
+            "tags": [
+                "addiction",
+                "protection"
+            ],
+            "biblical_reference": "1 Corinthians 6:19",
+            "time_of_day": "morning",
+            "scripture": "What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own? ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 63
+        },
+        {
+            "saint_id": "st_thomas",
+            "title": "Truth in Charity",
+            "prayer_text": "Patron of Schools, teach my family the lesson of charity as we begin our day together. May our home be a place where the truth is spoken in love, and where the light of faith guides our every interaction. Intercede for us, that we may grow together in wisdom and grace, united in the heart of God.",
+            "tags": [
+                "family",
+                "hope"
+            ],
+            "biblical_reference": "Ephesians 4:15",
+            "time_of_day": "morning",
+            "scripture": "But speaking the truth in love, may grow up into him in all things, which is the head, even Christ: ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 64
+        },
+        {
+            "saint_id": "st_thomas",
+            "title": "Defender of the Faith",
+            "prayer_text": "O Tower of Wisdom, grant me the courage to stand firm in my convictions this day, defending the truth with gentleness and respect. Protect my soul from the errors of the world, that I may remain a faithful witness to Christ in my daily life. Let your strength support my frailty when I am tested.",
+            "tags": [
+                "courage",
+                "protection"
+            ],
+            "biblical_reference": "1 Peter 3:15",
+            "time_of_day": "morning",
+            "scripture": "But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear: ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 65
+        },
+        {
+            "saint_id": "st_thomas",
+            "title": "Focus for the Weary Mind",
+            "prayer_text": "O Wise Architect of Thought, the afternoon brings distraction and fatigue; sharpen my mind to finish the work set before me. Grant me a piercing understanding and a retentive memory, that my labors may glorify the Creator and serve my neighbor. Do not let me waste these hours in idle folly.",
+            "tags": [
+                "work",
+                "guidance"
+            ],
+            "biblical_reference": "Wisdom 7:7",
+            "time_of_day": "afternoon",
+            "scripture": "Wherefore I prayed, and understanding was given me: I called upon God, and the spirit of wisdom came to me.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 66
+        },
+        {
+            "saint_id": "st_thomas",
+            "title": "Solitude into Prayer",
+            "prayer_text": "Saint of the Eucharist, who found your greatest joy in the silent presence of Christ, be with me in the solitude of this afternoon. Transform my loneliness into holy contemplation, that I may converse with God as a friend within the secret chamber of my heart. Let the silence be a bridge to heaven, not a wall of isolation.",
+            "tags": [
+                "loneliness",
+                "peace"
+            ],
+            "biblical_reference": "Psalm 46:10",
+            "time_of_day": "afternoon",
+            "scripture": "Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 67
+        },
+        {
+            "saint_id": "st_thomas",
+            "title": "Bread of Comfort",
+            "prayer_text": "O Doctor of the Church, you who sang of the Mystery of Faith, bring the comfort of the Blessed Sacrament to my grieving heart. When the sorrow feels too deep for words, remind me of the eternal banquet where every tear is wiped away. Heal my spirit with the hope of the Resurrection.",
+            "tags": [
+                "grief",
+                "healing"
+            ],
+            "biblical_reference": "John 6:35",
+            "time_of_day": "afternoon",
+            "scripture": "And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 68
+        },
+        {
+            "saint_id": "st_thomas",
+            "title": "Lamp in the Shadows",
+            "prayer_text": "O Light of the Church, shadows of doubt creep in as the day wanes; hold the lamp of faith high for me to see. Strengthen my hope in the unseen realities of God, that I may not despair over temporary setbacks. Guide my reason to bow humbly before the mystery of Divine Love.",
+            "tags": [
+                "hope",
+                "guidance"
+            ],
+            "biblical_reference": "Hebrews 11:1",
+            "time_of_day": "afternoon",
+            "scripture": "Now faith is the substance of things hoped for, the evidence of things not seen. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 69
+        },
+        {
+            "saint_id": "st_thomas",
+            "title": "Reason and Trust",
+            "prayer_text": "O Saint Thomas, who harmonized faith and reason, calm the storm of anxiety that threatens to overwhelm my afternoon. Grant me the courage to accept what I cannot change and the wisdom to act where I can, trusting fully in the primary cause of all good. Let me rest in the assurance that God is holding me.",
+            "tags": [
+                "anxiety",
+                "courage"
+            ],
+            "biblical_reference": "Romans 8:28",
+            "time_of_day": "afternoon",
+            "scripture": "And we know that all things work together for good to them that love God, to them who are the called according to his purpose. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 70
+        },
+        {
+            "saint_id": "st_francis",
+            "title": "Canticle of the Morning",
+            "prayer_text": "O Seraphic Father, who saw the glory of the Most High in Brother Sun, open my eyes to the hope that dawns with the light. Chase away the shadows of despair from my heart, and fill my spirit with the perfect joy of trusting in Providence. May I praise the Creator in all creatures I meet today.",
+            "tags": [
+                "hope",
+                "peace"
+            ],
+            "biblical_reference": "Psalm 19:1",
+            "time_of_day": "morning",
+            "scripture": "To the chief Musician, A Psalm of David.\n\n1The heavens declare the glory of God; and the firmament sheweth his handywork.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 71
+        },
+        {
+            "saint_id": "st_francis",
+            "title": "Simplicity in Labor",
+            "prayer_text": "O Builder of San Damiano, guide my hands in the work that lies before me this morning. Let me not seek to be great, but to be faithful in the small stones of daily duty, rebuilding the Kingdom with humility. Pray that I may serve the Lord with the simplicity and gladness that marked your holy life.",
+            "tags": [
+                "work",
+                "guidance"
+            ],
+            "biblical_reference": "1 Corinthians 15:58",
+            "time_of_day": "morning",
+            "scripture": "Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 72
+        },
+        {
+            "saint_id": "st_francis",
+            "title": "Instrument of Peace at Dawn",
+            "prayer_text": "Little Poor Man of Assisi, as I rise, I beg you to teach my heart the melody of peace. Silence the clamor of anxiety within me, that I may greet this day as a true child of God, free from the burden of worry. Intercede for me, that I may sow love where there is fear.",
+            "tags": [
+                "peace",
+                "anxiety"
+            ],
+            "biblical_reference": "Matthew 5:9",
+            "time_of_day": "morning",
+            "scripture": "Blessed are the peacemakers: for they shall be called the children of God. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 73
+        },
+        {
+            "saint_id": "st_francis",
+            "title": "Courage to Strip Away",
+            "prayer_text": "Saint Francis, who stripped yourself of all worldly attachments to embrace the Cross, lend me your courage to reject the chains of addiction this morning. Pray that I may find a sweetness in self-denial that the world cannot give. Help me to stand naked before God, clothed only in His sufficient grace.",
+            "tags": [
+                "addiction",
+                "courage"
+            ],
+            "biblical_reference": "Matthew 16:24",
+            "time_of_day": "morning",
+            "scripture": "\u00b6 Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 74
+        },
+        {
+            "saint_id": "st_francis",
+            "title": "Guardian of the Flock",
+            "prayer_text": "O Humble Saint, who gathered brothers around you in a bond of charity, watch over my family as we start our day. Protect our home from the wolf of division and keep us safe in the fold of Christ. Grant us the grace to bear with one another's burdens in gentleness and love.",
+            "tags": [
+                "family",
+                "protection"
+            ],
+            "biblical_reference": "Galatians 6:2",
+            "time_of_day": "morning",
+            "scripture": "Bear ye one another\u2019s burdens, and so fulfil the law of Christ. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 75
+        },
+        {
+            "saint_id": "st_francis",
+            "title": "Solace in Solitude",
+            "prayer_text": "O Lover of Solitude, come to me in the emptiness of this afternoon. When I feel abandoned by the world, remind me that I am a brother to the birds of the air and the lilies of the field, held securely by the Father. Turn my loneliness into a sacred conversation with the Crucified Lord.",
+            "tags": [
+                "loneliness",
+                "hope"
+            ],
+            "biblical_reference": "Matthew 6:26",
+            "time_of_day": "afternoon",
+            "scripture": "Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they? ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 76
+        },
+        {
+            "saint_id": "st_francis",
+            "title": "Taming the Inner Wolf",
+            "prayer_text": "Tamer of the Wolf of Gubbio, stand between me and the angers and fears that lurk in the afternoon shadows. Grant me the protection of your intercession, that no bitterness may find a home in my soul. Teach me to meet hostility with the weapon of love and the shield of faith.",
+            "tags": [
+                "protection",
+                "courage"
+            ],
+            "biblical_reference": "Romans 12:21",
+            "time_of_day": "afternoon",
+            "scripture": "Be not overcome of evil, but overcome evil with good.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 77
+        },
+        {
+            "saint_id": "st_francis",
+            "title": "Balm for the Wounded",
+            "prayer_text": "Saint Francis, who bore the wounds of Christ in your own flesh, look with compassion upon my pain and grief. Teach me to unite my suffering with the Passion of Jesus, finding healing in His stripes. Wrap my broken heart in the mantle of your prayer, that I may find comfort in the Cross.",
+            "tags": [
+                "healing",
+                "grief"
+            ],
+            "biblical_reference": "1 Peter 2:24",
+            "time_of_day": "afternoon",
+            "scripture": "Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 78
+        },
+        {
+            "saint_id": "st_francis",
+            "title": "Calm Amidst the Noise",
+            "prayer_text": "O Gentle Saint, the noise of the day surrounds me, but I seek the silence of La Verna. Calm the turbulence of my spirit and obtain for me the grace of patience with those who trouble me. Let me be a channel of God's peace in this weary hour.",
+            "tags": [
+                "peace",
+                "anxiety"
+            ],
+            "biblical_reference": "John 14:27",
+            "time_of_day": "afternoon",
+            "scripture": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 79
+        },
+        {
+            "saint_id": "st_francis",
+            "title": "Perseverance in the Task",
+            "prayer_text": "O Herald of the Great King, the day is waning and my energy fades; guide my steps on the path of perseverance. Help me to finish my tasks not for the praise of men, but for the love of God. Keep my eyes fixed on the eternal reward that awaits the faithful servant.",
+            "tags": [
+                "work",
+                "guidance"
+            ],
+            "biblical_reference": "Colossians 3:23",
+            "time_of_day": "afternoon",
+            "scripture": "And whatsoever ye do, do it heartily, as to the Lord, and not unto men; ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 80
+        },
+        {
+            "saint_id": "st_peter",
+            "title": "Fisherman's Morning Offering",
+            "prayer_text": "O Fisherman of Galilee, as I cast my nets into the sea of this new day, bless my labor. Grant me the patience you learned on the boat, that I may work diligently even when the catch seems small. Guide my hands to serve the Lord, trusting that He fills the empty nets.",
+            "tags": [
+                "work",
+                "guidance"
+            ],
+            "biblical_reference": "Luke 5:4",
+            "time_of_day": "morning",
+            "scripture": "Now when he had left speaking, he said unto Simon, Launch out into the deep, and let down your nets for a draught. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 81
+        },
+        {
+            "saint_id": "st_peter",
+            "title": "Courage on the Waves",
+            "prayer_text": "O Prince of the Apostles, who stepped out of the boat onto the stormy waves, hold me up as I face the uncertainties of this morning. When the winds of anxiety begin to howl, grasp my hand as Jesus grasped yours. Do not let me sink into fear, but fix my eyes on the Savior.",
+            "tags": [
+                "anxiety",
+                "courage"
+            ],
+            "biblical_reference": "Matthew 14:30-31",
+            "time_of_day": "morning",
+            "scripture": "30But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me. 31And immediately Jesus stretched forth his hand, and caught him, and said unto him, O thou of little faith, wherefore didst thou doubt? ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 82
+        },
+        {
+            "saint_id": "st_peter",
+            "title": "Rock of the Household",
+            "prayer_text": "Saint Peter, Rock of the Church, stand guard over my household as the sun rises. Protect my family from the shifting sands of the world, anchoring us firmly in the faith you proclaimed. May our home be a place of healing and service, just as your house in Capernaum was for the Lord.",
+            "tags": [
+                "family",
+                "protection"
+            ],
+            "biblical_reference": "Matthew 8:14",
+            "time_of_day": "morning",
+            "scripture": "\u00b6 And when Jesus was come into Peter\u2019s house, he saw his wife\u2019s mother laid, and sick of a fever. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 83
+        },
+        {
+            "saint_id": "st_peter",
+            "title": "Hope in New Beginnings",
+            "prayer_text": "O Key-Keeper of Heaven, you know the bitterness of failure and the sweetness of forgiveness; give me hope this morning. If I fall today, help me to rise quickly and run back to Christ, just as you ran to the empty tomb. Let my past mistakes not define my future, but be transformed by grace.",
+            "tags": [
+                "hope",
+                "healing"
+            ],
+            "biblical_reference": "John 21:15",
+            "time_of_day": "morning",
+            "scripture": "\u00b6 So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 84
+        },
+        {
+            "saint_id": "st_peter",
+            "title": "Shield Against Temptation",
+            "prayer_text": "Saint Peter, who confessed that only Jesus has the words of eternal life, shield me from the false promises of addiction this day. When the temptation to return to my old ways is strong, grant me the strength to stand firm on the solid rock. Remind me that there is no other name by which we are saved.",
+            "tags": [
+                "addiction",
+                "protection"
+            ],
+            "biblical_reference": "John 6:68",
+            "time_of_day": "morning",
+            "scripture": "Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 85
+        },
+        {
+            "saint_id": "st_peter",
+            "title": "Endurance in Labor",
+            "prayer_text": "O Blessed Apostle, the afternoon is long and I am weary from the toil; renew my spirit. You knew the exhaustion of an empty net; teach me to persevere in my duties with trust in the Lord's command. Help me to cast my cares upon Him, for He cares for me.",
+            "tags": [
+                "work",
+                "peace"
+            ],
+            "biblical_reference": "1 Peter 5:7",
+            "time_of_day": "afternoon",
+            "scripture": "Casting all your care upon him; for he careth for you. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 86
+        },
+        {
+            "saint_id": "st_peter",
+            "title": "Shadow of Healing",
+            "prayer_text": "Saint Peter, whose very shadow brought healing to the sick, pass over my grieving heart this afternoon. The pain of loss is sharp; intercede for me that the Comforter may bind up these wounds. Let me find strength in the promise of the resurrection you witnessed firsthand.",
+            "tags": [
+                "healing",
+                "grief"
+            ],
+            "biblical_reference": "Acts 5:15",
+            "time_of_day": "afternoon",
+            "scripture": "Insomuch that they brought forth the sick into the streets, and laid them on beds and couches, that at the least the shadow of Peter passing by might overshadow some of them. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 87
+        },
+        {
+            "saint_id": "st_peter",
+            "title": "Company in Chains",
+            "prayer_text": "O Martyr of Rome, who sat in chains awaiting your fate, be with me in the prison of my loneliness. When the silence feels oppressive, remind me that the whole Church prays with me and for me. Break the chains of isolation and fill this space with the presence of God.",
+            "tags": [
+                "loneliness",
+                "hope"
+            ],
+            "biblical_reference": "Acts 12:5",
+            "time_of_day": "afternoon",
+            "scripture": "Peter therefore was kept in prison: but prayer was made without ceasing of the church unto God for him. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 88
+        },
+        {
+            "saint_id": "st_peter",
+            "title": "The Key of Wisdom",
+            "prayer_text": "Keeper of the Keys, the path ahead is unclear and confusion clouds my judgment; unlock the door of wisdom for me. Guide my steps away from the errors of the world and back to the narrow path of the Gospel. Help me to answer the Lord's question, 'Who do you say that I am?' with my life.",
+            "tags": [
+                "guidance",
+                "courage"
+            ],
+            "biblical_reference": "Matthew 16:16",
+            "time_of_day": "afternoon",
+            "scripture": "And Simon Peter answered and said, Thou art the Christ, the Son of the living God. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 89
+        },
+        {
+            "saint_id": "st_peter",
+            "title": "Calm Against the Lion",
+            "prayer_text": "Saint Peter, humble shepherd, the stress of the day threatens my peace; help me to follow your own counsel. Assist me in casting all my anxieties upon the Lord, knowing fully well that He cares for me. Stand as a rock between me and the roaring lion that seeks to devour my calm.",
+            "tags": [
+                "peace",
+                "anxiety"
+            ],
+            "biblical_reference": "1 Peter 5:8",
+            "time_of_day": "afternoon",
+            "scripture": "Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour: ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 90
+        },
+        {
+            "saint_id": "st_paul",
+            "title": "The Armor of Light",
+            "prayer_text": "O Soldier of Christ, help me to put on the full armor of God as I step out into the world this morning. Buckle truth around my waist and shield my heart with righteousness, that I may stand firm against the schemes of the enemy. Protect my spirit from the fiery darts of discouragement and keep me faithful to the Gospel.",
+            "tags": [
+                "protection",
+                "courage"
+            ],
+            "biblical_reference": "Ephesians 6:11",
+            "time_of_day": "morning",
+            "scripture": "Put on the whole armour of God, that ye may be able to stand against the wiles of the devil. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 91
+        },
+        {
+            "saint_id": "st_paul",
+            "title": "Grace for the Thorn",
+            "prayer_text": "Blessed Paul, who besought the Lord to remove the thorn from your flesh, stand by me as I wake to my own anxieties. Teach me that His grace is sufficient for me, for power is made perfect in weakness. Calm my trembling heart, that I may boast not in my strength, but in the sustaining love of Jesus.",
+            "tags": [
+                "anxiety",
+                "peace"
+            ],
+            "biblical_reference": "2 Corinthians 12:9",
+            "time_of_day": "morning",
+            "scripture": "And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 92
+        },
+        {
+            "saint_id": "st_paul",
+            "title": "Running the Race",
+            "prayer_text": "O Apostle of the Gentiles, you who finished the race and kept the faith, urge me forward as I begin this day's journey. Grant me the endurance to run with purpose, not aimlessly beating the air, but focusing my eyes on the prize of Christ. Let my work today be a living sacrifice, holy and pleasing to God.",
+            "tags": [
+                "work",
+                "guidance"
+            ],
+            "biblical_reference": "2 Timothy 4:7",
+            "time_of_day": "morning",
+            "scripture": "I have fought a good fight, I have finished my course, I have kept the faith: ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 93
+        },
+        {
+            "saint_id": "st_paul",
+            "title": "New Creation",
+            "prayer_text": "Saint Paul, vessel of election, you were transformed from a persecutor into a pillar of the Church; obtain for me the hope of true change. As I face the chains of my addiction this morning, remind me that I am a new creation in Christ and the old has passed away. Intercede for the strength to walk in the newness of life.",
+            "tags": [
+                "addiction",
+                "hope"
+            ],
+            "biblical_reference": "2 Corinthians 5:17",
+            "time_of_day": "morning",
+            "scripture": "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 94
+        },
+        {
+            "saint_id": "st_paul",
+            "title": "Bond of Perfection",
+            "prayer_text": "O Great Teacher of Nations, who wrote that love never fails, guide my interactions with my family this day. Help me to be patient and kind, keeping no record of wrongs, that our home may reflect the unity of the Body of Christ. May the bond of peace hold us together in the Spirit.",
+            "tags": [
+                "family",
+                "guidance"
+            ],
+            "biblical_reference": "1 Corinthians 13:4-7",
+            "time_of_day": "morning",
+            "scripture": "4Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up, 5Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil; 6Rejoiceth not in iniquity, but rejoiceth in the truth; 7Beareth all things, believeth all things, hopeth all things, endureth all things. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 95
+        },
+        {
+            "saint_id": "st_paul",
+            "title": "Contentment in All Things",
+            "prayer_text": "O Chosen Vessel, who learned to be content in whatever state you found yourself, quell the rising tide of stress within me this afternoon. Teach me the secret of facing plenty and hunger, abundance and need, through Him who strengthens me. Grant me the peace that guards the heart and mind in Christ Jesus.",
+            "tags": [
+                "peace",
+                "anxiety"
+            ],
+            "biblical_reference": "Philippians 4:11-13",
+            "time_of_day": "afternoon",
+            "scripture": "11Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content. 12I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need. 13I can do all things through Christ which strengtheneth me. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 96
+        },
+        {
+            "saint_id": "st_paul",
+            "title": "Consolation in Grief",
+            "prayer_text": "O Blessed Apostle, who praised the God of all comfort, look with pity upon the grief that clouds my afternoon. Intercede for me, that I may receive the consolation I need to endure this loss without losing faith. Help me to believe that our momentary light affliction is producing for us an eternal weight of glory.",
+            "tags": [
+                "grief",
+                "healing"
+            ],
+            "biblical_reference": "2 Corinthians 1:3-4",
+            "time_of_day": "afternoon",
+            "scripture": "3Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort; 4Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 97
+        },
+        {
+            "saint_id": "st_paul",
+            "title": "Company in Chains",
+            "prayer_text": "O Saint Paul, who knew the cold chains of prison and the abandonment of friends, be near me in the solitude of this afternoon. When loneliness seeks to discourage my soul, remind me that nothing can separate me from the love of God in Christ Jesus. Let your prayers be my company and your faith my strength.",
+            "tags": [
+                "loneliness",
+                "hope"
+            ],
+            "biblical_reference": "Romans 8:38-39",
+            "time_of_day": "afternoon",
+            "scripture": "38For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, 39Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 98
+        },
+        {
+            "saint_id": "st_paul",
+            "title": "Removing the Scales",
+            "prayer_text": "Saint Paul, struck blind on the road to Damascus only to see more clearly, remove the scales of confusion from my eyes this afternoon. I seek the will of the Lord amidst these difficult decisions; guide me to the truth. Illuminate my path, that I may not walk in darkness but in the light of revelation.",
+            "tags": [
+                "guidance",
+                "protection"
+            ],
+            "biblical_reference": "Acts 9:18",
+            "time_of_day": "afternoon",
+            "scripture": "And immediately there fell from his eyes as it had been scales: and he received sight forthwith, and arose, and was baptized. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 99
+        },
+        {
+            "saint_id": "st_paul",
+            "title": "Zeal for the Task",
+            "prayer_text": "Saint Paul, tentmaker and apostle, the day is long and my hands grow heavy; lend me your zeal for the Lord. You worked day and night so as not to burden others; help me to finish my tasks with dignity and diligence. Let me do everything without grumbling or arguing, shining like a star in the world.",
+            "tags": [
+                "work",
+                "courage"
+            ],
+            "biblical_reference": "Philippians 2:14-15",
+            "time_of_day": "afternoon",
+            "scripture": "14Do all things without murmurings and disputings: 15That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world; ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 100
+        },
+        {
+            "saint_id": "st_patrick",
+            "title": "Binding the Day",
+            "prayer_text": "O St. Patrick, as I bind this new day to my heart, I ask for the strength of the Trinity to surround me. Christ be with me and within me as I rise, shielding me from all harm and spiritual danger. Guard my steps, that I may walk only where the Lord leads.",
+            "tags": [
+                "protection",
+                "guidance"
+            ],
+            "biblical_reference": "Psalm 28:7",
+            "time_of_day": "morning",
+            "scripture": "The LORD is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 101
+        },
+        {
+            "saint_id": "st_patrick",
+            "title": "Calm in Captivity",
+            "prayer_text": "Glorious Apostle of Ireland, you found God in the silence of your captivity; calm the anxious thoughts that crowd my mind this morning. Help me to see Christ on my right and on my left, that fear may have no dominion over me. Let the peace of the Trinity fill my soul.",
+            "tags": [
+                "anxiety",
+                "peace"
+            ],
+            "biblical_reference": "Philippians 4:6-7",
+            "time_of_day": "morning",
+            "scripture": "6Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God. 7And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 102
+        },
+        {
+            "saint_id": "st_patrick",
+            "title": "Missionary Zeal",
+            "prayer_text": "O St. Patrick, tireless worker for the Gospel, ignite a fire in my heart for the tasks ahead. Guide my hands to build the Kingdom in my daily labors, just as you built the Church in a foreign land. May my work today glorify God and serve my neighbor.",
+            "tags": [
+                "work",
+                "guidance"
+            ],
+            "biblical_reference": "Colossians 3:17",
+            "time_of_day": "morning",
+            "scripture": "And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 103
+        },
+        {
+            "saint_id": "st_patrick",
+            "title": "Driving Out the Snakes",
+            "prayer_text": "Mighty St. Patrick, who drove the serpents from the Emerald Isle, drive the snakes of addiction from my heart this morning. Stand between me and the temptation to fall, giving me the courage to choose freedom in Christ. Let the light of faith blind the enemy's snares.",
+            "tags": [
+                "addiction",
+                "courage"
+            ],
+            "biblical_reference": "Ephesians 6:11",
+            "time_of_day": "morning",
+            "scripture": "Put on the whole armour of God, that ye may be able to stand against the wiles of the devil. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 104
+        },
+        {
+            "saint_id": "st_patrick",
+            "title": "Blessing of the Shamrock",
+            "prayer_text": "O Holy Bishop, bless my family as we start this day, uniting us in the love of the Father, Son, and Holy Spirit. Protect our home from division and let our lives be a living shamrock, distinct yet one in love. Keep us safe until we gather again.",
+            "tags": [
+                "family",
+                "protection"
+            ],
+            "biblical_reference": "John 17:21",
+            "time_of_day": "morning",
+            "scripture": "That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe that thou hast sent me. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 105
+        },
+        {
+            "saint_id": "st_patrick",
+            "title": "Shepherd of Solitude",
+            "prayer_text": "St. Patrick, who prayed a hundred times a day in the rain and cold, be with me in the solitude of this afternoon. When I feel isolated, remind me that the Spirit prays within me, turning loneliness into sweet communion. Help me feel the nearness of Christ in every wind that blows.",
+            "tags": [
+                "loneliness",
+                "hope"
+            ],
+            "biblical_reference": "Romans 8:26",
+            "time_of_day": "afternoon",
+            "scripture": "Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 106
+        },
+        {
+            "saint_id": "st_patrick",
+            "title": "Green Mantle of Comfort",
+            "prayer_text": "Gentle Patron, look with pity upon the sorrow that weighs down my afternoon. You knew the pain of separation from your kin; help me to bear this grief with hope in the Resurrection. Wrap me in the mantle of your protection and ask Jesus to heal my broken heart.",
+            "tags": [
+                "grief",
+                "healing"
+            ],
+            "biblical_reference": "Psalm 147:3",
+            "time_of_day": "afternoon",
+            "scripture": "He healeth the broken in heart, and bindeth up their wounds.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 107
+        },
+        {
+            "saint_id": "st_patrick",
+            "title": "Shield of the Afternoon",
+            "prayer_text": "O St. Patrick, as the day wears on and my strength fades, be a shield around me against the arrows of stress. Christ beneath me to hold me up, Christ over me to watch my way. Grant me a peaceful heart amidst the noise of the world.",
+            "tags": [
+                "peace",
+                "protection"
+            ],
+            "biblical_reference": "Psalm 3:3",
+            "time_of_day": "afternoon",
+            "scripture": "But thou, O LORD, art a shield for me; my glory, and the lifter up of mine head.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 108
+        },
+        {
+            "saint_id": "st_patrick",
+            "title": "Vision in the Fog",
+            "prayer_text": "O Courageous Saint, the path ahead is foggy and I struggle to see the way; lend me your vision of faith. Help me to trust that God is leading me, even when the road is difficult. Renew my hope, that I may press on towards the light of evening.",
+            "tags": [
+                "hope",
+                "guidance"
+            ],
+            "biblical_reference": "2 Corinthians 5:7",
+            "time_of_day": "afternoon",
+            "scripture": "(For we walk by faith, not by sight:) ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 109
+        },
+        {
+            "saint_id": "st_patrick",
+            "title": "Fire on the Hill",
+            "prayer_text": "St. Patrick, who lit the fire of Easter against the darkness, kindle my courage to finish this day's work with integrity. Do not let me shrink from doing what is right, even if I must stand alone. May my efforts this afternoon burn bright for the glory of God.",
+            "tags": [
+                "work",
+                "courage"
+            ],
+            "biblical_reference": "Matthew 5:16",
+            "time_of_day": "afternoon",
+            "scripture": "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 110
+        },
+        {
+            "saint_id": "st_nicholas",
+            "title": "The Gift of Charity",
+            "prayer_text": "O St. Nicholas, whose generosity is known to all, teach me to give of myself freely as I begin my work. Let me not count the cost of service but see the face of Christ in those I meet today. May my labor be a gift offered in secret love to the Father.",
+            "tags": [
+                "work",
+                "guidance"
+            ],
+            "biblical_reference": "Acts 20:35",
+            "time_of_day": "morning",
+            "scripture": "I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 111
+        },
+        {
+            "saint_id": "st_nicholas",
+            "title": "Shield of the Innocent",
+            "prayer_text": "Holy Bishop of Myra, I entrust my children and family to your fatherly care this morning. Shield their innocence from the corruptions of the world and guide their steps in the path of virtue. Be a guardian angel to them when I cannot be near.",
+            "tags": [
+                "family",
+                "protection"
+            ],
+            "biblical_reference": "Matthew 18:10",
+            "time_of_day": "morning",
+            "scripture": "Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 112
+        },
+        {
+            "saint_id": "st_nicholas",
+            "title": "Calm Waters at Dawn",
+            "prayer_text": "Patron of Mariners, the waters of anxiety are rising within my soul at the break of day; intercede for calm. As you once quieted the storm for terrified sailors, silence the waves of fear that threaten to drown my trust. Steer my little boat safely towards the will of God.",
+            "tags": [
+                "anxiety",
+                "peace"
+            ],
+            "biblical_reference": "Mark 4:39",
+            "time_of_day": "morning",
+            "scripture": "And he arose, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 113
+        },
+        {
+            "saint_id": "st_nicholas",
+            "title": "Provision of Hope",
+            "prayer_text": "O Wonderworker, when hope feels scarce and my spirit is poor, drop the gold of divine grace into my empty heart. Remind me that God provides for His children in unexpected ways. Let me walk out this door with the assurance of His providence.",
+            "tags": [
+                "hope",
+                "guidance"
+            ],
+            "biblical_reference": "Philippians 4:19",
+            "time_of_day": "morning",
+            "scripture": "But my God shall supply all your need according to his riches in glory by Christ Jesus. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 114
+        },
+        {
+            "saint_id": "st_nicholas",
+            "title": "Courage of Truth",
+            "prayer_text": "Defender of the Truth, who stood firm against error, grant me the courage to live my faith boldly this morning. Protect me from the weakness of human respect and the temptation to compromise. Let my life be a clear testimony to the divinity of Christ.",
+            "tags": [
+                "courage",
+                "protection"
+            ],
+            "biblical_reference": "Jude 1:3",
+            "time_of_day": "morning",
+            "scripture": "Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort you that ye should earnestly contend for the faith which was once delivered unto the saints. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 115
+        },
+        {
+            "saint_id": "st_nicholas",
+            "title": "Refuge from the Storm",
+            "prayer_text": "O Saint of the safe harbor, the winds of this afternoon are wearying; bring my spirit into the shelter of God's peace. Protect me from the tempests of anger and frustration that arise in the heat of the day. Anchor my soul in the deep waters of patience.",
+            "tags": [
+                "peace",
+                "protection"
+            ],
+            "biblical_reference": "Psalm 107:29",
+            "time_of_day": "afternoon",
+            "scripture": "He maketh the storm a calm, so that the waves thereof are still.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 116
+        },
+        {
+            "saint_id": "st_nicholas",
+            "title": "The Secret Consolation",
+            "prayer_text": "Giver of Secret Gifts, in the loneliness of this hour, bring the comfort of God's presence to my door. You who aided the desperate in the cover of night, come to me now when I feel unseen by the world. Remind me that my Father in heaven sees me and loves me.",
+            "tags": [
+                "loneliness",
+                "hope"
+            ],
+            "biblical_reference": "Matthew 6:4",
+            "time_of_day": "afternoon",
+            "scripture": "That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 117
+        },
+        {
+            "saint_id": "st_nicholas",
+            "title": "Mender of Hearts",
+            "prayer_text": "Merciful Nicholas, who saved the condemned from death, look with pity on my grief which feels like a heavy sentence. Intercede for the healing of my broken heart, that I may not be swallowed up by sorrow. Turn my mourning into a trust in the eternal life to come.",
+            "tags": [
+                "grief",
+                "healing"
+            ],
+            "biblical_reference": "Psalm 34:18",
+            "time_of_day": "afternoon",
+            "scripture": "The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 118
+        },
+        {
+            "saint_id": "st_nicholas",
+            "title": "Release from Chains",
+            "prayer_text": "O Breaker of Chains, I cry out to you from the prison of my addiction; ask the Lord to set me free. You who rescued the innocent, rescue me now from the guilt and the craving that bind me. Grant me the strength to walk out of this darkness into the light of liberty.",
+            "tags": [
+                "addiction",
+                "courage"
+            ],
+            "biblical_reference": "Psalm 146:7",
+            "time_of_day": "afternoon",
+            "scripture": "Which executeth judgment for the oppressed: which giveth food to the hungry. The LORD looseth the prisoners:",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 119
+        },
+        {
+            "saint_id": "st_nicholas",
+            "title": "Shepherd at Twilight",
+            "prayer_text": "Good Shepherd of Myra, the day is waning and the path is dim; guide my steps lest I stumble. Help me to navigate the remaining duties of this afternoon with wisdom and clarity. Lead me gently home to rest, with a conscience clear and a heart full of gratitude.",
+            "tags": [
+                "guidance",
+                "work"
+            ],
+            "biblical_reference": "Psalm 23:3",
+            "time_of_day": "afternoon",
+            "scripture": "He restoreth my soul: he leadeth me in the paths of righteousness for his name\u2019s sake.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 120
+        },
+        {
+            "saint_id": "st_joan",
+            "title": "Battlefield of the Morning",
+            "prayer_text": "Maid of Orl\u00e9ans, I wake to the battlefield of this new day; lend me your armor of faith. Grant me the courage to 'go boldly' into my duties, fearing nothing but the loss of God\u2019s grace. Let me hear the voice of the Lord directing my steps as I march forward.",
+            "tags": [
+                "courage",
+                "work"
+            ],
+            "biblical_reference": "Joshua 1:9",
+            "time_of_day": "morning",
+            "scripture": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 121
+        },
+        {
+            "saint_id": "st_joan",
+            "title": "Listening for the Voice",
+            "prayer_text": "O Saint Joan, who listened so intently to the voices from heaven, open my ears to the promptings of the Holy Spirit this morning. Amidst the noise of the world, help me distinguish the will of God from my own desires. Guide me to answer 'yes' to His call without hesitation.",
+            "tags": [
+                "guidance",
+                "hope"
+            ],
+            "biblical_reference": "1 Samuel 3:10",
+            "time_of_day": "morning",
+            "scripture": "And the LORD came, and stood, and called as at other times, Samuel, Samuel. Then Samuel answered, Speak; for thy servant heareth.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 122
+        },
+        {
+            "saint_id": "st_joan",
+            "title": "Banner of Protection",
+            "prayer_text": "Warrior of God, raise your banner over my family as we depart this morning, shielding us from spiritual attacks. You who faced the English arrows, protect us from the snares of the enemy that seek to wound our souls. Keep us safe in the fortress of the Church.",
+            "tags": [
+                "protection",
+                "family"
+            ],
+            "biblical_reference": "Psalm 20:5",
+            "time_of_day": "morning",
+            "scripture": "We will rejoice in thy salvation, and in the name of our God we will set up our banners: the LORD fulfil all thy petitions.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 123
+        },
+        {
+            "saint_id": "st_joan",
+            "title": "Born for This",
+            "prayer_text": "Daughter of God, when anxiety trembles within me at the thought of today's challenges, remind me that God is with me. You said, 'I am not afraid; I was born to do this'; help me to claim my own vocation with that same trust. Silence the whispers of doubt that cloud my morning.",
+            "tags": [
+                "anxiety",
+                "courage"
+            ],
+            "biblical_reference": "Esther 4:14",
+            "time_of_day": "morning",
+            "scripture": "For if thou altogether holdest thy peace at this time, then shall there enlargement and deliverance arise to the Jews from another place; but thou and thy father\u2019s house shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 124
+        },
+        {
+            "saint_id": "st_joan",
+            "title": "Zeal in Labor",
+            "prayer_text": "O Saint Joan, who left the spinning wheel to save a nation, bless my labor this day. Help me to serve the Lord with all my might, whether in great deeds or humble tasks. Let my work be a crusade for truth and goodness in a darkened world.",
+            "tags": [
+                "work",
+                "hope"
+            ],
+            "biblical_reference": "Colossians 3:23",
+            "time_of_day": "morning",
+            "scripture": "And whatsoever ye do, do it heartily, as to the Lord, and not unto men; ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 125
+        },
+        {
+            "saint_id": "st_joan",
+            "title": "Company in the Tower",
+            "prayer_text": "Saint Joan, abandoned by friends and trapped in the prison of solitude, be near me in this lonely afternoon. When I feel misunderstood or isolated, remind me that Christ is the truest friend who never leaves. Strengthen my spirit to find freedom in prayer, even within these walls.",
+            "tags": [
+                "loneliness",
+                "hope"
+            ],
+            "biblical_reference": "2 Timothy 4:16-17",
+            "time_of_day": "afternoon",
+            "scripture": "16At my first answer no man stood with me, but all men forsook me: I pray God that it may not be laid to their charge. 17Notwithstanding the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and that all the Gentiles might hear: and I was delivered out of the mouth of the lion. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 126
+        },
+        {
+            "saint_id": "st_joan",
+            "title": "Breaking the Chains",
+            "prayer_text": "O Martyr of Rouen, you bore the weight of heavy chains; help me to break the fetters of addiction that bind me. When the temptation grows strong in the weary hours, lend me your fiery resolve to say 'no' to the darkness. Intercede for my liberation, that I may belong wholly to God.",
+            "tags": [
+                "addiction",
+                "courage"
+            ],
+            "biblical_reference": "Psalm 107:14",
+            "time_of_day": "afternoon",
+            "scripture": "He brought them out of darkness and the shadow of death, and brake their bands in sunder.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 127
+        },
+        {
+            "saint_id": "st_joan",
+            "title": "Peace in the Fire",
+            "prayer_text": "Saint Joan, who remained steadfast in the face of fire and accusation, grant me peace amidst the stress of this day. When false words or difficult circumstances surround me, keep my eyes fixed on the Cross held before you. Let the peace of a clear conscience be my refuge.",
+            "tags": [
+                "peace",
+                "protection"
+            ],
+            "biblical_reference": "John 16:33",
+            "time_of_day": "afternoon",
+            "scripture": "These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 128
+        },
+        {
+            "saint_id": "st_joan",
+            "title": "Surrender in Grief",
+            "prayer_text": "Holy Maiden, who gave your life young and full of promise, comfort me in my grief and loss. Help me to surrender my sorrow to the King of Heaven, trusting that every tear is counted by Him. Teach me that death is not the end, but the gateway to eternal victory.",
+            "tags": [
+                "grief",
+                "hope"
+            ],
+            "biblical_reference": "Revelation 21:4",
+            "time_of_day": "afternoon",
+            "scripture": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 129
+        },
+        {
+            "saint_id": "st_joan",
+            "title": "Healing the Wounded",
+            "prayer_text": "O brave Saint Joan, you were wounded in battle yet returned to the fight; look upon my wounds of body and spirit. Ask the Divine Physician to pour His healing balm upon me, that I may not despair in my suffering. Give me the strength to endure this pain for the love of Jesus.",
+            "tags": [
+                "healing",
+                "courage"
+            ],
+            "biblical_reference": "Jeremiah 30:17",
+            "time_of_day": "afternoon",
+            "scripture": "For I will restore health unto thee, and I will heal thee of thy wounds, saith the LORD; because they called thee an Outcast, saying, This is Zion, whom no man seeketh after.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 130
+        },
+        {
+            "saint_id": "st_teresa",
+            "title": "Let Nothing Disturb You",
+            "prayer_text": "O Seraphic Mother, who taught that 'all things pass,' calm the turmoil of my spirit as I face this new day. Remind me that patience attains all things and that he who has God lacks nothing. Let nothing disturb my peace this morning, for God alone suffices.",
+            "tags": [
+                "anxiety",
+                "peace"
+            ],
+            "biblical_reference": "Psalm 62:1",
+            "time_of_day": "morning",
+            "scripture": "To the chief Musician, to Jeduthun, A Psalm of David.\n\n1Truly my soul waiteth upon God: from him cometh my salvation.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 131
+        },
+        {
+            "saint_id": "st_teresa",
+            "title": "God Among the Pots and Pans",
+            "prayer_text": "Saint Teresa, you found the Lord walking among the pots and pans; help me to find Him in the humble tasks of this morning. Grant me the grace to serve with love in the kitchen of my daily life, offering every small action as a prayer. Let my work be a conversation with the Divine Guest.",
+            "tags": [
+                "work",
+                "guidance"
+            ],
+            "biblical_reference": "Colossians 3:17",
+            "time_of_day": "morning",
+            "scripture": "And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 132
+        },
+        {
+            "saint_id": "st_teresa",
+            "title": "Determined Determination",
+            "prayer_text": "O Reformer of Carmel, grant me a 'determined determination' to pursue virtue this day, no matter the cost. When the path is steep and my will is weak, lend me your fiery courage to never look back. Help me to keep my eyes fixed on the Captain of Love, Jesus Christ.",
+            "tags": [
+                "courage",
+                "hope"
+            ],
+            "biblical_reference": "Luke 9:62",
+            "time_of_day": "morning",
+            "scripture": "And Jesus said unto him, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 133
+        },
+        {
+            "saint_id": "st_teresa",
+            "title": "Fortress of the Family",
+            "prayer_text": "Saint Teresa, protect my family within the interior castle of God's grace as we separate for our daily duties. Guard our hearts from the distractions of the world, that we may remain united in the friendship of Christ. May our home be a dwelling place of prayer and charity.",
+            "tags": [
+                "family",
+                "protection"
+            ],
+            "biblical_reference": "Proverbs 14:26",
+            "time_of_day": "morning",
+            "scripture": "In the fear of the LORD is strong confidence: and his children shall have a place of refuge. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 134
+        },
+        {
+            "saint_id": "st_teresa",
+            "title": "Freedom from Chains",
+            "prayer_text": "Doctor of Prayer, teach me to detach my heart from the created things that enslave me. Intercede for me, that I may break the chains of addiction and find my true satisfaction in the living waters of the Spirit. Help me to desire God above all earthly comforts this day.",
+            "tags": [
+                "addiction",
+                "healing"
+            ],
+            "biblical_reference": "John 4:14",
+            "time_of_day": "morning",
+            "scripture": "But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 135
+        },
+        {
+            "saint_id": "st_teresa",
+            "title": "The Interior Guest",
+            "prayer_text": "O Mystic of \u00c1vila, lead me into the inner chamber of my soul where the King of Glory dwells in silence. When I feel alone in this afternoon hour, remind me that the greatest Friend is waiting for me within. Teach me to converse lovingly with Him who loves me so dearly.",
+            "tags": [
+                "loneliness",
+                "peace"
+            ],
+            "biblical_reference": "John 14:23",
+            "time_of_day": "afternoon",
+            "scripture": "Jesus answered and said unto him, If a man love me, he will keep my words: and my Father will love him, and we will come unto him, and make our abode with him. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 136
+        },
+        {
+            "saint_id": "st_teresa",
+            "title": "God Never Changes",
+            "prayer_text": "Saint Teresa, who knew that God never changes even when life is full of sorrow, be my comfort in this time of grief. Anchor my drifting heart in the stability of His eternal love, which knows no end. Let me rest in the assurance that I possess the All, even amidst this loss.",
+            "tags": [
+                "grief",
+                "hope"
+            ],
+            "biblical_reference": "Hebrews 13:8",
+            "time_of_day": "afternoon",
+            "scripture": "Jesus Christ the same yesterday, and to day, and for ever. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 137
+        },
+        {
+            "saint_id": "st_teresa",
+            "title": "Humility in Action",
+            "prayer_text": "O Guide of Souls, the afternoon is weary and the road of perfection seems long; support my faltering steps. Help me to persevere in my duties with humility, knowing that humility is walking in truth. Direct my actions, that they may be pleasing to the Majesty of God.",
+            "tags": [
+                "work",
+                "guidance"
+            ],
+            "biblical_reference": "Micah 6:8",
+            "time_of_day": "afternoon",
+            "scripture": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 138
+        },
+        {
+            "saint_id": "st_teresa",
+            "title": "Wounded by Love",
+            "prayer_text": "Saint Teresa, wounded by the dart of divine love, look upon the wounds of my body and spirit with compassion. Ask the Divine Physician to heal what is broken in me, or to give me the strength to suffer with love. May my pain become a path to deeper union with the Beloved.",
+            "tags": [
+                "healing",
+                "courage"
+            ],
+            "biblical_reference": "Song of Solomon 2:5",
+            "time_of_day": "afternoon",
+            "scripture": "Stay me with flagons, comfort me with apples: for I am sick of love. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 139
+        },
+        {
+            "saint_id": "st_teresa",
+            "title": "Trust in Providence",
+            "prayer_text": "Saint Teresa, shield of the faithful, protect my mind from the wandering thoughts and anxieties that assail me as the day wanes. Grant me the courage to trust in God's providence, even when I cannot see the way forward. Let me find my safety in the arms of Jesus.",
+            "tags": [
+                "anxiety",
+                "protection"
+            ],
+            "biblical_reference": "Psalm 91:2",
+            "time_of_day": "afternoon",
+            "scripture": "I will say of the LORD, He is my refuge and my fortress: my God; in him will I trust.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 140
+        },
+        {
+            "saint_id": "st_therese",
+            "title": "The Little Way of Trust",
+            "prayer_text": "O Little Flower of Jesus, as the day begins, I feel small and overwhelmed by the cares ahead; teach me your Little Way of perfect trust. Help me to rest in the Father's arms like a child, casting every worry upon Him who carries me. Let me fear nothing, knowing that His love surrounds me.",
+            "tags": [
+                "anxiety",
+                "peace"
+            ],
+            "biblical_reference": "Matthew 18:3",
+            "time_of_day": "morning",
+            "scripture": "And said, Verily I say unto you, Except ye be converted, and become as little children, ye shall not enter into the kingdom of heaven. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 141
+        },
+        {
+            "saint_id": "st_therese",
+            "title": "Small Things, Great Love",
+            "prayer_text": "Dear Saint Therese, you found holiness in the ordinary tasks of the convent; guide my hands this morning. Help me to do the smallest things with great love, turning my daily labor into a bouquet of roses for Jesus. May my humble efforts please His Sacred Heart.",
+            "tags": [
+                "work",
+                "guidance"
+            ],
+            "biblical_reference": "1 Corinthians 10:31",
+            "time_of_day": "morning",
+            "scripture": "Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 142
+        },
+        {
+            "saint_id": "st_therese",
+            "title": "Shower of Roses on the Home",
+            "prayer_text": "O Patroness of Missions, look upon the mission field of my own home as we start this day. Let a shower of roses fall upon my family, protecting us from discord and filling our hearts with simple, childlike love. Keep us united in the spirit of the Holy Family.",
+            "tags": [
+                "family",
+                "protection"
+            ],
+            "biblical_reference": "Psalm 127:1",
+            "time_of_day": "morning",
+            "scripture": "A Song of degrees for Solomon.\n\n1Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 143
+        },
+        {
+            "saint_id": "st_therese",
+            "title": "The Elevator of Grace",
+            "prayer_text": "St. Therese, I am too weak to climb the rough stairway of perfection alone; I need the elevator of Christ's arms. As I face the temptation of addiction this morning, come to my aid and lift me above the mire. I offer you my frailty, trusting that God's power is made perfect in it.",
+            "tags": [
+                "addiction",
+                "courage"
+            ],
+            "biblical_reference": "2 Corinthians 12:9",
+            "time_of_day": "morning",
+            "scripture": "And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 144
+        },
+        {
+            "saint_id": "st_therese",
+            "title": "Confidence in the Storm",
+            "prayer_text": "Sweet Saint, who promised to spend your heaven doing good on earth, grant me a spark of hope at this sunrise. When the horizon seems dark, remind me that behind the clouds is the eternal sun of God's love. Let me walk by faith, confident in His infinite mercy.",
+            "tags": [
+                "hope",
+                "peace"
+            ],
+            "biblical_reference": "Hebrews 10:35",
+            "time_of_day": "morning",
+            "scripture": "Cast not away therefore your confidence, which hath great recompence of reward. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 145
+        },
+        {
+            "saint_id": "st_therese",
+            "title": "The Hidden Face",
+            "prayer_text": "O Face of Jesus, so loved by Therese, appear to me in the solitude of this afternoon. When I feel forgotten, remind me that I am hidden with Christ in God, the safest of all places. Be my sister and friend, filling this silence with the fragrance of your prayer.",
+            "tags": [
+                "loneliness",
+                "peace"
+            ],
+            "biblical_reference": "Colossians 3:3",
+            "time_of_day": "afternoon",
+            "scripture": "For ye are dead, and your life is hid with Christ in God. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 146
+        },
+        {
+            "saint_id": "st_therese",
+            "title": "Flowers of Sacrifice",
+            "prayer_text": "St. Therese, the day drags on and my patience wears thin; help me to practice the virtue of a smile. Teach me to pick up the 'pins' of irritation and offer them as sacrifices of love. Let me not miss these opportunities to save souls through my endurance.",
+            "tags": [
+                "work",
+                "courage"
+            ],
+            "biblical_reference": "Romans 12:1",
+            "time_of_day": "afternoon",
+            "scripture": "I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 147
+        },
+        {
+            "saint_id": "st_therese",
+            "title": "Comfort in Exile",
+            "prayer_text": "Little Flower, you knew the pain of separation; comfort me in my grief and remind me that life is but a night in a bad inn. Help me to look beyond this sorrow to the eternal morning where we shall be reunited. Strengthen my heart to wait for the homeland of Heaven.",
+            "tags": [
+                "grief",
+                "hope"
+            ],
+            "biblical_reference": "Psalm 30:5",
+            "time_of_day": "afternoon",
+            "scripture": "For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 148
+        },
+        {
+            "saint_id": "st_therese",
+            "title": "Scattering Petals",
+            "prayer_text": "O Doctor of the Church, though you suffered greatly, you smiled for Jesus; intercede for my healing. If this pain must remain, give me the strength to scatter my sufferings like petals at the Master's feet. Make my spirit strong in love, even if my body is weak.",
+            "tags": [
+                "healing",
+                "courage"
+            ],
+            "biblical_reference": "2 Corinthians 4:16",
+            "time_of_day": "afternoon",
+            "scripture": "For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 149
+        },
+        {
+            "saint_id": "st_therese",
+            "title": "Vocation of Love",
+            "prayer_text": "St. Therese, my vocation is love, but I often lose my way in the details; guide my heart back to the center this afternoon. Show me the next step, however small, that leads to the heart of God. Let me burn with the desire to make Him loved.",
+            "tags": [
+                "guidance",
+                "work"
+            ],
+            "biblical_reference": "1 Corinthians 13:13",
+            "time_of_day": "afternoon",
+            "scripture": "And now abideth faith, hope, charity, these three; but the greatest of these is charity.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 150
+        },
+        {
+            "saint_id": "st_cathrine",
+            "title": "Fire of Charity",
+            "prayer_text": "O Seraphic Virgin, you who commanded us to be who God made us to be, ignite my heart this morning. Grant me the courage to set my little corner of the world on fire with charity as I begin my work. Let me not shrink from the Truth, but serve it with a bold spirit.",
+            "tags": [
+                "courage",
+                "work"
+            ],
+            "biblical_reference": "Luke 12:49",
+            "time_of_day": "morning",
+            "scripture": "\u00b6 I am come to send fire on the earth; and what will I, if it be already kindled? ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 151
+        },
+        {
+            "saint_id": "st_cathrine",
+            "title": "The Inner Cell",
+            "prayer_text": "Saint Catherine, teach me to retreat into the inner cell of my heart where God dwells, even before the day's chaos begins. Calm the anxiety that threatens to steal my peace, and help me know myself only in the light of His love. Secure me in the fortress of the soul.",
+            "tags": [
+                "anxiety",
+                "peace"
+            ],
+            "biblical_reference": "Luke 17:21",
+            "time_of_day": "morning",
+            "scripture": "Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 152
+        },
+        {
+            "saint_id": "st_cathrine",
+            "title": "Guardian of the Home",
+            "prayer_text": "O Mamma Catherine, as you cared for your spiritual family, watch over my own earthly family this morning. Protect us from the contagion of the world and bind us together in the Truth. May our home be a place where God is honored above all else.",
+            "tags": [
+                "family",
+                "protection"
+            ],
+            "biblical_reference": "3 John 1:4",
+            "time_of_day": "morning",
+            "scripture": "I have no greater joy than to hear that my children walk in truth. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 153
+        },
+        {
+            "saint_id": "st_cathrine",
+            "title": "Walking the Bridge",
+            "prayer_text": "Glorious Saint, you saw Christ as the Bridge between heaven and earth; guide my steps onto this sure path today. When the waters of the world rise, keep me from falling into despair. Lead me safely across the trials of this morning to the shores of hope.",
+            "tags": [
+                "guidance",
+                "hope"
+            ],
+            "biblical_reference": "John 14:6",
+            "time_of_day": "morning",
+            "scripture": "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 154
+        },
+        {
+            "saint_id": "st_cathrine",
+            "title": "Cleansing the Will",
+            "prayer_text": "O Saint of the Precious Blood, wash my will in the mercy of Christ as I wake to this battle. Give me the strength to starve the demons of addiction and feed on the Bread of Life instead. Intercede for me, that I may be healed of these disordered desires.",
+            "tags": [
+                "addiction",
+                "healing"
+            ],
+            "biblical_reference": "1 Peter 1:18-19",
+            "time_of_day": "morning",
+            "scripture": "18Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers; 19But with the precious blood of Christ, as of a lamb without blemish and without spot: ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 155
+        },
+        {
+            "saint_id": "st_cathrine",
+            "title": "Stamina of Love",
+            "prayer_text": "O tireless servant of God, the afternoon wears on and my energy fades; lend me your zeal. Help me to see Christ in the faces of those I serve, just as you saw Him in the sick and the poor. Let me finish this day's race with the stamina of love.",
+            "tags": [
+                "work",
+                "courage"
+            ],
+            "biblical_reference": "Matthew 25:40",
+            "time_of_day": "afternoon",
+            "scripture": "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 156
+        },
+        {
+            "saint_id": "st_cathrine",
+            "title": "Solitude with the Spouse",
+            "prayer_text": "Beloved Spouse of Christ, in the silence of this afternoon, my heart feels the ache of solitude. Remind me that God is closer to me than I am to myself. Fill this empty space with the fire of divine love, that I may never feel alone while He is near.",
+            "tags": [
+                "loneliness",
+                "peace"
+            ],
+            "biblical_reference": "Psalm 139:7",
+            "time_of_day": "afternoon",
+            "scripture": "\n\n7Whither shall I go from thy spirit? or whither shall I flee from thy presence?",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 157
+        },
+        {
+            "saint_id": "st_cathrine",
+            "title": "Vision Beyond Sorrow",
+            "prayer_text": "Saint Catherine, Doctor of the Soul, you understood the vanity of passing things; comfort me in my grief. Help me to look past this present sorrow to the eternal joy prepared for us. Hold my hand, that I may not sink into the darkness of mourning.",
+            "tags": [
+                "grief",
+                "hope"
+            ],
+            "biblical_reference": "2 Corinthians 4:18",
+            "time_of_day": "afternoon",
+            "scripture": "While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 158
+        },
+        {
+            "saint_id": "st_cathrine",
+            "title": "Shield Against Despair",
+            "prayer_text": "O Terror of Demons, the stresses of the day surround me like wolves; be my shield and defense. Drive away the spirits of anxiety and discouragement that seek to paralyze my will. Stand guard over my mind, that I may rest in the truth of God's providence.",
+            "tags": [
+                "protection",
+                "anxiety"
+            ],
+            "biblical_reference": "Psalm 27:1",
+            "time_of_day": "afternoon",
+            "scripture": "A Psalm of David.\n\n1The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 159
+        },
+        {
+            "saint_id": "st_cathrine",
+            "title": "Light of Wisdom",
+            "prayer_text": "O Woman of Wisdom, the shadows are lengthening and I need clarity for the decisions ahead. Whisper the counsel of the Holy Spirit to my heart, that I may do nothing displeasing to the Lord. Illuminate my intellect with the light of faith.",
+            "tags": [
+                "guidance",
+                "peace"
+            ],
+            "biblical_reference": "James 1:5",
+            "time_of_day": "afternoon",
+            "scripture": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 160
+        },
+        {
+            "saint_id": "st_augustine",
+            "title": "Restless Heart at Dawn",
+            "prayer_text": "O Saint Augustine, whose heart was restless until it found rest in God, calm my anxious spirit as I wake. Teach me to seek the peace that the world cannot give, anchoring my soul in the eternal Truth. Pray that I may find my center in Christ this morning, rather than in the fleeting things of earth.",
+            "tags": [
+                "anxiety",
+                "peace"
+            ],
+            "biblical_reference": "Psalm 62:1",
+            "time_of_day": "morning",
+            "scripture": "To the chief Musician, to Jeduthun, A Psalm of David.\n\n1Truly my soul waiteth upon God: from him cometh my salvation.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 161
+        },
+        {
+            "saint_id": "st_augustine",
+            "title": "Breaking the Chains",
+            "prayer_text": "Great Doctor of Grace, you know the iron chains of habit that bind the will; stand with me against the temptation of addiction this day. Intercede for the strength to choose the light over the darkness, transforming my old desires into a burning thirst for God. Let me walk in the true freedom of the Spirit.",
+            "tags": [
+                "addiction",
+                "courage"
+            ],
+            "biblical_reference": "Romans 7:24-25",
+            "time_of_day": "morning",
+            "scripture": "24O wretched man that I am! who shall deliver me from the body of this death? 25I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 162
+        },
+        {
+            "saint_id": "st_augustine",
+            "title": "Labor for Truth",
+            "prayer_text": "O Light of the Church, illumine my intellect and direct my hands in the work I must do today. Help me to serve the Truth in all my tasks, offering my labor as a hymn of praise to the Creator. May I not be distracted by empty vanities but focused on the eternal good.",
+            "tags": [
+                "work",
+                "guidance"
+            ],
+            "biblical_reference": "Colossians 3:23",
+            "time_of_day": "morning",
+            "scripture": "And whatsoever ye do, do it heartily, as to the Lord, and not unto men; ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 163
+        },
+        {
+            "saint_id": "st_augustine",
+            "title": "Prayer for the Wandering",
+            "prayer_text": "Saint Augustine, won over by the patient tears of your holy mother, look with favor upon my family this morning. Pray for the conversion of those I love who have wandered far from the fold. Grant us the grace of unity and patience, that we may journey together towards the City of God.",
+            "tags": [
+                "family",
+                "hope"
+            ],
+            "biblical_reference": "Luke 15:20",
+            "time_of_day": "morning",
+            "scripture": "And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 164
+        },
+        {
+            "saint_id": "st_augustine",
+            "title": "New Beginning in Love",
+            "prayer_text": "O Lover of Beauty, ancient and new, awaken a fresh hope in my heart as the sun rises. Do not let my past failures define this new day, but lead me to love God more fervently. Help me to begin again with the assurance of His infinite mercy.",
+            "tags": [
+                "hope",
+                "healing"
+            ],
+            "biblical_reference": "Lamentations 3:22-23",
+            "time_of_day": "morning",
+            "scripture": "22\u00b6 It is of the LORD\u2019s mercies that we are not consumed, because his compassions fail not. 23They are new every morning: great is thy faithfulness. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 165
+        },
+        {
+            "saint_id": "st_augustine",
+            "title": "The Inner Sanctuary",
+            "prayer_text": "O Holy Bishop, the noise of the day surrounds me, but I seek the silence of the heart. Remind me that God is more inward to me than my most inward part, and higher than my highest reach. Quiet my soul, that I may rest in His presence amidst the chaos.",
+            "tags": [
+                "peace",
+                "anxiety"
+            ],
+            "biblical_reference": "Psalm 46:10",
+            "time_of_day": "afternoon",
+            "scripture": "Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 166
+        },
+        {
+            "saint_id": "st_augustine",
+            "title": "Sorrow Turned to Hope",
+            "prayer_text": "Saint Augustine, who wept for your mother and friends, be near me in this afternoon of sorrow. Teach me to grieve with hope, knowing that we shall not lose those we love in Him who never ceases to be. Comfort my heart with the promise of the resurrection.",
+            "tags": [
+                "grief",
+                "hope"
+            ],
+            "biblical_reference": "1 Thessalonians 4:13",
+            "time_of_day": "afternoon",
+            "scripture": "But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 167
+        },
+        {
+            "saint_id": "st_augustine",
+            "title": "Solace in Solitude",
+            "prayer_text": "O Soul on fire for God, when I feel alone in the crowd, remind me that You are with me. Help me to turn my solitude into a conversation with the Divine Master, just as you poured out your confessions to Him. Let me feel the embrace of the Communion of Saints.",
+            "tags": [
+                "loneliness",
+                "peace"
+            ],
+            "biblical_reference": "John 16:32",
+            "time_of_day": "afternoon",
+            "scripture": "Behold, the hour cometh, yea, is now come, that ye shall be scattered, every man to his own, and shall leave me alone: and yet I am not alone, because the Father is with me. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 168
+        },
+        {
+            "saint_id": "st_augustine",
+            "title": "Healer of the Will",
+            "prayer_text": "Doctor of Grace, look upon the wounds of my spirit with compassion as the day wears on. Ask the Divine Physician to heal the blindness of my heart and the weakness of my will. Grant me the courage to accept the medicine of grace, however bitter it may taste.",
+            "tags": [
+                "healing",
+                "courage"
+            ],
+            "biblical_reference": "Jeremiah 17:14",
+            "time_of_day": "afternoon",
+            "scripture": "Heal me, O LORD, and I shall be healed; save me, and I shall be saved: for thou art my praise.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 169
+        },
+        {
+            "saint_id": "st_augustine",
+            "title": "Ordering of Love",
+            "prayer_text": "O Great Theologian, the shadows are lengthening and I need the light of wisdom to guide my decisions. Direct my will to choose what is right, ordering my loves so that I value nothing above God. Lead me through the maze of this world to the eternal shore.",
+            "tags": [
+                "guidance",
+                "protection"
+            ],
+            "biblical_reference": "Philippians 1:9-10",
+            "time_of_day": "afternoon",
+            "scripture": "9And this I pray, that your love may abound yet more and more in knowledge and in all judgment; 10That ye may approve things that are excellent; that ye may be sincere and without offence till the day of Christ; ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 170
+        },
+        {
+            "saint_id": "st_benedict",
+            "title": "Blessing the Work",
+            "prayer_text": "O Holy Father Benedict, who taught us that to labor is to pray, bless my hands as I take up my tasks this morning. Let my work be an offering of praise to the Creator, performed with humility and care. Help me to see Christ in the tools I use and the people I serve today.",
+            "tags": [
+                "work",
+                "guidance"
+            ],
+            "biblical_reference": "Colossians 3:23",
+            "time_of_day": "morning",
+            "scripture": "And whatsoever ye do, do it heartily, as to the Lord, and not unto men; ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 171
+        },
+        {
+            "saint_id": "st_benedict",
+            "title": "Shield of the Cross",
+            "prayer_text": "Saint Benedict, whose faith shattered the poisoned cup, stand as my shield against the snares of the enemy this morning. Let the Holy Cross be my light, that I may not be deceived by the darkness of temptation or malice. Protect my soul and body as I walk into the world.",
+            "tags": [
+                "protection",
+                "courage"
+            ],
+            "biblical_reference": "Ephesians 6:16",
+            "time_of_day": "morning",
+            "scripture": "Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 172
+        },
+        {
+            "saint_id": "st_benedict",
+            "title": "The Peace of Stability",
+            "prayer_text": "O Man of Peace, the day rushes in with demands and anxieties, but I seek the stability of your holy Rule. Calm the storm within my heart and grant me the grace of inner silence amidst the noise. May the peace of Christ reign in my soul as I begin this journey.",
+            "tags": [
+                "anxiety",
+                "peace"
+            ],
+            "biblical_reference": "John 14:27",
+            "time_of_day": "morning",
+            "scripture": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 173
+        },
+        {
+            "saint_id": "st_benedict",
+            "title": "Patience in the Family",
+            "prayer_text": "Blessed Benedict, father of many, look upon my domestic church this morning with kindness. Help us to bear with one another's infirmities with infinite patience, serving each other in love. Guide our home to be a school of the Lord's service, where peace abides.",
+            "tags": [
+                "family",
+                "peace"
+            ],
+            "biblical_reference": "Romans 12:10",
+            "time_of_day": "morning",
+            "scripture": "Be kindly affectioned one to another with brotherly love; in honour preferring one another; ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 174
+        },
+        {
+            "saint_id": "st_benedict",
+            "title": "Breaking the Grip",
+            "prayer_text": "Saint Benedict, you drove away the tempter with the sign of the Cross; help me to break the grip of addiction this morning. Shatter the false comfort of my vices and give me the strength to choose the sweet yoke of Christ. Be my guardian against the first cravings of the day.",
+            "tags": [
+                "addiction",
+                "courage"
+            ],
+            "biblical_reference": "1 Corinthians 10:13",
+            "time_of_day": "morning",
+            "scripture": "There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 175
+        },
+        {
+            "saint_id": "st_benedict",
+            "title": "Listening Heart",
+            "prayer_text": "O Wise Patriarch, the afternoon noise distracts me; teach me to listen with the ear of my heart. Guide my decisions in these remaining hours, that I may not stray from the path of obedience to God's will. Help me to hear the Master's gentle voice above the clamor of the world.",
+            "tags": [
+                "guidance",
+                "work"
+            ],
+            "biblical_reference": "Proverbs 4:20",
+            "time_of_day": "afternoon",
+            "scripture": "\u00b6 My son, attend to my words; incline thine ear unto my sayings. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 176
+        },
+        {
+            "saint_id": "st_benedict",
+            "title": "Solitude of the Cave",
+            "prayer_text": "Saint Benedict, who found God in the solitude of the cave, be with me in the loneliness of this afternoon. Turn this isolation into a sacred enclosure where I can speak freely with the Lord. Remind me that I am never truly alone when I walk in the presence of God.",
+            "tags": [
+                "loneliness",
+                "hope"
+            ],
+            "biblical_reference": "Psalm 139:7",
+            "time_of_day": "afternoon",
+            "scripture": "\n\n7Whither shall I go from thy spirit? or whither shall I flee from thy presence?",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 177
+        },
+        {
+            "saint_id": "st_benedict",
+            "title": "Anchor in Grief",
+            "prayer_text": "O Rock of Stability, my heart is shaken by grief and loss; anchor me in the unchangeable love of Christ. When the waves of sorrow crash over me this afternoon, hold me fast in the hope of the Resurrection. Intercede for me, that I may endure this trial with patience.",
+            "tags": [
+                "grief",
+                "hope"
+            ],
+            "biblical_reference": "Psalm 61:2",
+            "time_of_day": "afternoon",
+            "scripture": "From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock that is higher than I.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 178
+        },
+        {
+            "saint_id": "st_benedict",
+            "title": "Care for the Infirm",
+            "prayer_text": "Compassionate Father, you taught that care of the sick is serving Christ Himself; look upon my infirmity with mercy. Ask the Divine Physician to touch my body and spirit, restoring my strength for His service. Help me to bear this suffering without murmuring.",
+            "tags": [
+                "healing",
+                "peace"
+            ],
+            "biblical_reference": "Matthew 25:36",
+            "time_of_day": "afternoon",
+            "scripture": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 179
+        },
+        {
+            "saint_id": "st_benedict",
+            "title": "Terror of Demons",
+            "prayer_text": "Terror of Demons, as the shadows lengthen, drive away the spirits of darkness and despair that seek to trouble my mind. Let the Holy Cross be my light, refusing entrance to the dragon of fear. Guard my heart as I conclude the day's labors.",
+            "tags": [
+                "protection",
+                "anxiety"
+            ],
+            "biblical_reference": "Psalm 91:5",
+            "time_of_day": "afternoon",
+            "scripture": "Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day;",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 180
+        },
+        {
+            "saint_id": "st_dominic",
+            "title": "Torch of Truth",
+            "prayer_text": "O Light of the Church, Saint Dominic, cast the torch of Truth upon my path as the day begins. Guide my words and actions, that I may preach the Gospel through my life, even in silence. Let me not stumble in error but walk confidently in the light of Christ.",
+            "tags": [
+                "guidance",
+                "work"
+            ],
+            "biblical_reference": "Matthew 5:14",
+            "time_of_day": "morning",
+            "scripture": "Ye are the light of the world. A city that is set on an hill cannot be hid. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 181
+        },
+        {
+            "saint_id": "st_dominic",
+            "title": "Weapon of Peace",
+            "prayer_text": "O Preacher of Grace, when anxiety clouds my mind at dawn, place the weapon of the Rosary in my hands. Help me to find peace in the rhythm of prayer, meditating on the mysteries of salvation. Quiet my restless heart, that I may trust in God's providence.",
+            "tags": [
+                "anxiety",
+                "peace"
+            ],
+            "biblical_reference": "Philippians 4:6-7",
+            "time_of_day": "morning",
+            "scripture": "6Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God. 7And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 182
+        },
+        {
+            "saint_id": "st_dominic",
+            "title": "Courage to Witness",
+            "prayer_text": "Saint Dominic, fearless defender of the faith, grant me the courage to live my beliefs openly this morning. Protect me from the fear of judgment, that I may speak the truth with charity. May my life be a joyful witness to the Resurrection.",
+            "tags": [
+                "courage",
+                "protection"
+            ],
+            "biblical_reference": "2 Timothy 1:7",
+            "time_of_day": "morning",
+            "scripture": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 183
+        },
+        {
+            "saint_id": "st_dominic",
+            "title": "Guardian of the Hearth",
+            "prayer_text": "Father of Preachers, who loved your community dearly, watch over my family as we start our day. Bind us together in the charity of Christ, protecting our home from division. Let us speak only to God or of God within these walls.",
+            "tags": [
+                "family",
+                "protection"
+            ],
+            "biblical_reference": "Colossians 3:14",
+            "time_of_day": "morning",
+            "scripture": "And above all these things put on charity, which is the bond of perfectness. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 184
+        },
+        {
+            "saint_id": "st_dominic",
+            "title": "Truth Sets Free",
+            "prayer_text": "O Dominic, lover of souls, I wake fighting the chains of addiction; help me embrace the Truth that sets us free. Intercede for me, that I may reject the lies of temptation and find satisfaction in God alone. Be my strength when my will is weak.",
+            "tags": [
+                "addiction",
+                "hope"
+            ],
+            "biblical_reference": "John 8:32",
+            "time_of_day": "morning",
+            "scripture": "And ye shall know the truth, and the truth shall make you free.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 185
+        },
+        {
+            "saint_id": "st_dominic",
+            "title": "Clarity in Study and Work",
+            "prayer_text": "Glorious Saint Dominic, clarify my mind in the fatigue of this afternoon and bless the work of my hands. Grant me the grace to study the ways of the Lord in my daily tasks, leading me closer to the Creator. Keep my intention pure, seeking God's glory rather than my own.",
+            "tags": [
+                "work",
+                "guidance"
+            ],
+            "biblical_reference": "Psalm 19:14",
+            "time_of_day": "afternoon",
+            "scripture": "Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O LORD, my strength, and my redeemer.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 186
+        },
+        {
+            "saint_id": "st_dominic",
+            "title": "Joyful Companion",
+            "prayer_text": "Joyful Friar, who traveled the roads preaching the Word, walk with me in the loneliness of this afternoon. When I feel isolated, remind me of the communion of saints and the nearness of Jesus. Fill my solitude with the joy of your holy presence.",
+            "tags": [
+                "loneliness",
+                "hope"
+            ],
+            "biblical_reference": "Matthew 28:20",
+            "time_of_day": "afternoon",
+            "scripture": "Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 187
+        },
+        {
+            "saint_id": "st_dominic",
+            "title": "Compassion in Sorrow",
+            "prayer_text": "O Saint of Compassion, who sold your books to feed the poor, look with pity upon my grieving heart. Carry my sorrow to the foot of the Cross, helping me to trust that death is not the end. Let the hope of eternal life be my consolation.",
+            "tags": [
+                "grief",
+                "hope"
+            ],
+            "biblical_reference": "Revelation 21:4",
+            "time_of_day": "afternoon",
+            "scripture": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 188
+        },
+        {
+            "saint_id": "st_dominic",
+            "title": "Restoration of Spirit",
+            "prayer_text": "Saint Dominic, powerful intercessor, I bring my wounds of body and spirit to you as the day wanes. Ask the Divine Physician to touch my infirmities, restoring me to health for His service. Grant me the patience to bear this cross with a joyful spirit.",
+            "tags": [
+                "healing",
+                "courage"
+            ],
+            "biblical_reference": "James 5:16",
+            "time_of_day": "afternoon",
+            "scripture": "Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 189
+        },
+        {
+            "saint_id": "st_dominic",
+            "title": "Sanctuary of Silence",
+            "prayer_text": "O Man of Prayer, the noise of the world is loud this afternoon; teach me to withdraw into the silence of the heart. Create a sanctuary of peace within my soul where I may rest from the stress of the day. Guard my heart against the tumult of frustration.",
+            "tags": [
+                "peace",
+                "protection"
+            ],
+            "biblical_reference": "Isaiah 26:3",
+            "time_of_day": "afternoon",
+            "scripture": "Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 190
+        },
+        {
+            "saint_id": "st_ignatius",
+            "title": "For the Greater Glory",
+            "prayer_text": "O Soldier of Christ, as I strap on the armor of a new day, grant me the grace to do all things for the greater glory of God. Help me to find God in every task, however small, and to serve Him with a heart of fire. Let my work this morning be a pure offering, untainted by vanity or selfishness.",
+            "tags": [
+                "work",
+                "guidance"
+            ],
+            "biblical_reference": "1 Corinthians 10:31",
+            "time_of_day": "morning",
+            "scripture": "Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 191
+        },
+        {
+            "saint_id": "st_ignatius",
+            "title": "Holy Indifference",
+            "prayer_text": "Saint Ignatius, teach me the freedom of holy indifference as I face the uncertainties of this morning. Calming my anxious heart, help me to desire health or sickness, riches or poverty, only insofar as they lead me to God. Let me rest securely in the Divine Will, fearing nothing but sin.",
+            "tags": [
+                "anxiety",
+                "peace"
+            ],
+            "biblical_reference": "Matthew 6:33",
+            "time_of_day": "morning",
+            "scripture": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 192
+        },
+        {
+            "saint_id": "st_ignatius",
+            "title": "Standard of the King",
+            "prayer_text": "O Captain of God's Company, I pledge my family to the standard of Christ the King as we depart for the day. Protect us from the snares of the world and the deceit of the enemy, keeping our eyes fixed on the true Leader. May our home be a barracks of charity and a school of virtue.",
+            "tags": [
+                "family",
+                "protection"
+            ],
+            "biblical_reference": "Joshua 24:15",
+            "time_of_day": "morning",
+            "scripture": "And if it seem evil unto you to serve the LORD, choose you this day whom ye will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the LORD. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 193
+        },
+        {
+            "saint_id": "st_ignatius",
+            "title": "Conquering the Self",
+            "prayer_text": "Saint Ignatius, you fought the hardest battle against self-love; aid me in my struggle against addiction this morning. Give me the courage to reject the false comforts that enslave me, choosing instead the standard of the Cross. Help me to order my life so that no disordered affection rules over me.",
+            "tags": [
+                "addiction",
+                "courage"
+            ],
+            "biblical_reference": "Galatians 5:24",
+            "time_of_day": "morning",
+            "scripture": "And they that are Christ\u2019s have crucified the flesh with the affections and lusts. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 194
+        },
+        {
+            "saint_id": "st_ignatius",
+            "title": "Courage to Serve",
+            "prayer_text": "Noble Knight of Our Lady, grant me the courage to be generous today, to give and not to count the cost. When I am tempted to hold back out of fear or laziness, remind me of the sacrifice of Jesus. Let me fight for the good without heeding the wounds.",
+            "tags": [
+                "courage",
+                "work"
+            ],
+            "biblical_reference": "2 Corinthians 9:7",
+            "time_of_day": "morning",
+            "scripture": "Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 195
+        },
+        {
+            "saint_id": "st_ignatius",
+            "title": "Discernment in the Noise",
+            "prayer_text": "Master of Discernment, the afternoon brings many voices; help me distinguish the voice of the Good Shepherd from the enemy. Grant me clarity to make decisions that lead to life and peace, rejecting the confusion of the evil one. Guide my steps on the path of wisdom.",
+            "tags": [
+                "guidance",
+                "peace"
+            ],
+            "biblical_reference": "1 John 4:1",
+            "time_of_day": "afternoon",
+            "scripture": "Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 196
+        },
+        {
+            "saint_id": "st_ignatius",
+            "title": "Finding God in All Things",
+            "prayer_text": "Saint Ignatius, who found God even in the midst of pain, help me to see Him in the struggles of this afternoon. When work becomes drudgery, lift my eyes to the Creator who sustains me in every moment. Let me not be blind to His presence in the ordinary.",
+            "tags": [
+                "work",
+                "hope"
+            ],
+            "biblical_reference": "Acts 17:27-28",
+            "time_of_day": "afternoon",
+            "scripture": "27That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us: 28For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 197
+        },
+        {
+            "saint_id": "st_ignatius",
+            "title": "Surrender of the Heart",
+            "prayer_text": "O Saint of the Suscipe, I am weighed down by grief; teach me to surrender my liberty, my memory, and my will to the Lord. Take this sorrow, Lord, and receive it; only Your love and Your grace are enough for me. Help me to find healing in the total gift of myself to You.",
+            "tags": [
+                "grief",
+                "healing"
+            ],
+            "biblical_reference": "Psalm 51:17",
+            "time_of_day": "afternoon",
+            "scripture": "The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 198
+        },
+        {
+            "saint_id": "st_ignatius",
+            "title": "Companion in Recovery",
+            "prayer_text": "Saint Ignatius, you endured months of painful recovery in solitude; be with me in my own loneliness this afternoon. Transform this time of isolation into a period of conversion and deep intimacy with Christ. Let me read the movements of my soul and find God waiting there.",
+            "tags": [
+                "loneliness",
+                "hope"
+            ],
+            "biblical_reference": "Psalm 27:14",
+            "time_of_day": "afternoon",
+            "scripture": "Wait on the LORD: be of good courage, and he shall strengthen thine heart: wait, I say, on the LORD.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 199
+        },
+        {
+            "saint_id": "st_ignatius",
+            "title": "Shield Against Desolation",
+            "prayer_text": "O Wise Guide, when spiritual desolation hits me in the heat of the day, be my protection against despair. Remind me to stay firm in my resolutions and to wait with patience for the return of consolation. Keep my hope alive when the feelings of faith are dry.",
+            "tags": [
+                "protection",
+                "anxiety"
+            ],
+            "biblical_reference": "Psalm 42:11",
+            "time_of_day": "afternoon",
+            "scripture": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 200
+        },
+        {
+            "saint_id": "st_faustina",
+            "title": "Vessel of Mercy at Dawn",
+            "prayer_text": "O Secretary of Divine Mercy, guide my hands this morning that every act may be a vessel of God's love. Help me to see the image of the Merciful Jesus in everyone I meet, turning my work into a hymn of praise. Let no opportunity for kindness pass me by today.",
+            "tags": [
+                "work",
+                "guidance"
+            ],
+            "biblical_reference": "Matthew 5:7",
+            "time_of_day": "morning",
+            "scripture": "Blessed are the merciful: for they shall obtain mercy. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 201
+        },
+        {
+            "saint_id": "st_faustina",
+            "title": "Trust Against Anxiety",
+            "prayer_text": "Saint Faustina, who taught the world to trust, calm the anxiety that grips my heart at the dawn of this day. Remind me that the ocean of God's mercy is greater than my fears, and help me whisper 'Jesus, I trust in You' with true confidence. Let me rest in the assurance that I am a beloved child of the Father.",
+            "tags": [
+                "anxiety",
+                "peace"
+            ],
+            "biblical_reference": "Psalm 56:3",
+            "time_of_day": "morning",
+            "scripture": "What time I am afraid, I will trust in thee.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 202
+        },
+        {
+            "saint_id": "st_faustina",
+            "title": "Rays of Protection",
+            "prayer_text": "Apostle of Mercy, I entrust my family to your prayers as we scatter for the day; cover us with the rays of blood and water. Protect our home from discord and let forgiveness be the language we speak to one another. May the Divine Mercy wrap us in a mantle of safety and love.",
+            "tags": [
+                "family",
+                "protection"
+            ],
+            "biblical_reference": "1 Peter 4:8",
+            "time_of_day": "morning",
+            "scripture": "And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 203
+        },
+        {
+            "saint_id": "st_faustina",
+            "title": "Strength in Weakness",
+            "prayer_text": "O Humble Servant, I wake facing the giant of addiction, but I know that no misery is too deep for God's mercy. Intercede for me, that I may drink from the fount of strength and resist the first temptation of the morning. Help me to cling to the hem of Christ's garment when I feel weak.",
+            "tags": [
+                "addiction",
+                "courage"
+            ],
+            "biblical_reference": "2 Corinthians 12:9",
+            "time_of_day": "morning",
+            "scripture": "And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 204
+        },
+        {
+            "saint_id": "st_faustina",
+            "title": "Morning of Hope",
+            "prayer_text": "Saint Faustina, herald of hope, as the sun rises, illuminate my soul with the promise of God's infinite goodness. Chase away the shadows of discouragement and teach me to live this day with a spirit of gratitude. Let me be a reflection of the divine light to a darkened world.",
+            "tags": [
+                "hope",
+                "guidance"
+            ],
+            "biblical_reference": "Lamentations 3:22-23",
+            "time_of_day": "morning",
+            "scripture": "22\u00b6 It is of the LORD\u2019s mercies that we are not consumed, because his compassions fail not. 23They are new every morning: great is thy faithfulness. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 205
+        },
+        {
+            "saint_id": "st_faustina",
+            "title": "Peace in the Hour of Mercy",
+            "prayer_text": "O Saint of the Three O'Clock Hour, as the afternoon fades, immerse my weary spirit in the ocean of Jesus' passion. When the stress of the day threatens my peace, remind me of the blood and water that gushed forth for my salvation. Grant me the grace to offer my fatigue as a prayer for sinners.",
+            "tags": [
+                "peace",
+                "work"
+            ],
+            "biblical_reference": "John 19:34",
+            "time_of_day": "afternoon",
+            "scripture": "But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 206
+        },
+        {
+            "saint_id": "st_faustina",
+            "title": "Comfort in Sorrow",
+            "prayer_text": "Saint Faustina, you knew the depth of Jesus' sorrow; come to me in my own time of grief and loss. Wrap my broken heart in the tender mercy of the Lord, who collects every tear in His bottle. Whisper to me the promise of the resurrection, where all sorrow will be turned into joy.",
+            "tags": [
+                "grief",
+                "hope"
+            ],
+            "biblical_reference": "Psalm 56:8",
+            "time_of_day": "afternoon",
+            "scripture": "\n\n8Thou tellest my wanderings: put thou my tears into thy bottle: are they not in thy book?",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 207
+        },
+        {
+            "saint_id": "st_faustina",
+            "title": "Companion in Silence",
+            "prayer_text": "Beloved Bride of Christ, be my companion in the loneliness of this afternoon, for you found your fullness in the solitude with Jesus. Teach me to turn this silence into a conversation with the Divine Mercy, finding comfort in His abiding presence. Let me know that I am never alone while the Lord is near.",
+            "tags": [
+                "loneliness",
+                "healing"
+            ],
+            "biblical_reference": "Isaiah 41:10",
+            "time_of_day": "afternoon",
+            "scripture": "\u00b6 Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness. ",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 208
+        },
+        {
+            "saint_id": "st_faustina",
+            "title": "Balm for the Wounded",
+            "prayer_text": "O Dispenser of God's Graces, look with pity upon my infirmities of body and soul as the day wanes. Ask the Divine Physician to pour His healing balm upon my wounds, trusting that His will is love and mercy itself. Strengthen my faith, that I may endure this trial with patience.",
+            "tags": [
+                "healing",
+                "courage"
+            ],
+            "biblical_reference": "Psalm 147:3",
+            "time_of_day": "afternoon",
+            "scripture": "He healeth the broken in heart, and bindeth up their wounds.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 209
+        },
+        {
+            "saint_id": "st_faustina",
+            "title": "Shield Against Despair",
+            "prayer_text": "Saint Faustina, shield of souls, protect me from the snares of despair and the whispers of the enemy in these later hours. When confusion seeks to cloud my judgment, point me to the rays of mercy that flow from the Heart of Jesus. Stand guard over my peace, that I may finish the day in grace.",
+            "tags": [
+                "protection",
+                "guidance"
+            ],
+            "biblical_reference": "Psalm 32:7",
+            "time_of_day": "afternoon",
+            "scripture": "\n\n7Thou art my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah.",
+            "approved": true,
+            "checked": true,
+            "prayer_id": 210
+        }
+    ]
+}
