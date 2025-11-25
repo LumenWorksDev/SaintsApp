@@ -1,4 +1,160 @@
 {
+    "saints": {
+        "st_michael": {
+            "display_name": "St. Michael the Archangel",
+            "title": "Defender in Battle",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Guido_Reni_-_Saint_Michael_the_Archangel_-_Google_Art_Project.jpg/800px-Guido_Reni_-_Saint_Michael_the_Archangel_-_Google_Art_Project.jpg",
+            "etsy_search_term": "saint michael protection medal necklace",
+            "ad_copy": "Carry the Shield of St. Michael to protect you from life's battles."
+        },
+        "st_christopher": {
+            "display_name": "St. Christopher",
+            "title": "Patron of Travelers",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Saint_Christopher_Hans_Memling.jpg/640px-Saint_Christopher_Hans_Memling.jpg",
+            "etsy_search_term": "saint christopher visor clip travel protection",
+            "ad_copy": "Keep St. Christopher with you on every journey you take."
+        },
+        "st_jude": {
+            "display_name": "St. Jude Thaddeus",
+            "title": "Patron of the Impossible",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Saint_Jude_Thaddeus.jpg/640px-Saint_Jude_Thaddeus.jpg",
+            "etsy_search_term": "saint jude medal hope",
+            "ad_copy": "When all seems lost, let St. Jude bring hope back to your heart."
+        },
+        "st_joseph": {
+            "display_name": "St. Joseph",
+            "title": "Terror of Demons",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Saint_Joseph_with_the_Infant_Jesus_-_Guido_Reni.jpg/640px-Saint_Joseph_with_the_Infant_Jesus_-_Guido_Reni.jpg",
+            "etsy_search_term": "saint joseph statue home seller",
+            "ad_copy": "Invite St. Joseph into your home for peace and protection."
+        },
+        "st_mary": {
+            "display_name": "The Blessed Virgin Mary",
+            "title": "Mother of God",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sassoferrato_-_The_Virgin_in_Prayer_-_National_Gallery_London.jpg/640px-Sassoferrato_-_The_Virgin_in_Prayer_-_National_Gallery_London.jpg",
+            "etsy_search_term": "miraculous medal necklace silver",
+            "ad_copy": "Wrap yourself in the loving mantle of our Blessed Mother."
+        },
+        "st_anthony": {
+            "display_name": "St. Anthony of Padua",
+            "title": "Finder of the Lost",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Saint_Anthony_of_Padua_by_Murillo.jpg/640px-Saint_Anthony_of_Padua_by_Murillo.jpg",
+            "etsy_search_term": "saint anthony prayer card lost things",
+            "ad_copy": "Let St. Anthony help you find what is missing in your life."
+        },
+        "st_thomas": {
+            "display_name": "St. Thomas Aquinas",
+            "title": "The Angelic Doctor",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/St-thomas-aquinas.jpg/640px-St-thomas-aquinas.jpg",
+            "etsy_search_term": "saint thomas aquinas study prayer journal",
+            "ad_copy": "Find clarity and wisdom in your studies with St. Thomas."
+        },
+        "st_francis": {
+            "display_name": "St. Francis of Assisi",
+            "title": "Lover of Creation",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Saint_Francis_of_Assisi_by_Jusepe_de_Ribera.jpg/640px-Saint_Francis_of_Assisi_by_Jusepe_de_Ribera.jpg",
+            "etsy_search_term": "saint francis garden statue",
+            "ad_copy": "Bring the peace of St. Francis into your home and garden."
+        },
+        "st_peter": {
+            "display_name": "St. Peter",
+            "title": "The Rock",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rubens_-_Saint_Peter_as_Pope.jpg/640px-Rubens_-_Saint_Peter_as_Pope.jpg",
+            "etsy_search_term": "saint peter keys cross pendant",
+            "ad_copy": "Stand firm in your faith on the rock of St. Peter."
+        },
+        "st_paul": {
+            "display_name": "St. Paul",
+            "title": "Apostle to the Nations",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Saint_Paul_by_Valentin_de_Boulogne.jpg/640px-Saint_Paul_by_Valentin_de_Boulogne.jpg",
+            "etsy_search_term": "saint paul sword spirit shirt",
+            "ad_copy": "Arm yourself with the Sword of the Spirit like St. Paul."
+        },
+        "st_patrick": {
+            "display_name": "St. Patrick",
+            "title": "Apostle of Ireland",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Saint_Patrick_stained_glass_window.jpg/640px-Saint_Patrick_stained_glass_window.jpg",
+            "etsy_search_term": "celtic cross saint patrick necklace",
+            "ad_copy": "Bind yourself to the strength of Christ with St. Patrick's breastplate."
+        },
+        "st_nicholas": {
+            "display_name": "St. Nicholas",
+            "title": "Wonderworker",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Saint_Nicholas_Icon.jpg/640px-Saint_Nicholas_Icon.jpg",
+            "etsy_search_term": "saint nicholas christmas ornament",
+            "ad_copy": "Share the true joy of giving with St. Nicholas."
+        },
+        "st_joan": {
+            "display_name": "St. Joan of Arc",
+            "title": "Maid of Orléans",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Joan_of_arc_miniature_graded.jpg/640px-Joan_of_arc_miniature_graded.jpg",
+            "etsy_search_term": "saint joan of arc medal courage",
+            "ad_copy": "Find the courage to fight your battles with St. Joan of Arc."
+        },
+        "st_teresa": {
+            "display_name": "St. Teresa of Ávila",
+            "title": "Doctor of Prayer",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Rubens_-_Teresa_of_Avila.jpg/640px-Rubens_-_Teresa_of_Avila.jpg",
+            "etsy_search_term": "let nothing disturb you bracelet",
+            "ad_copy": "Let nothing disturb you. Wear this reminder of inner peace."
+        },
+        "st_therese": {
+            "display_name": "St. Thérèse of Lisieux",
+            "title": "The Little Flower",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Therese_de_Lisieux.jpg/640px-Therese_de_Lisieux.jpg",
+            "etsy_search_term": "saint therese rose necklace",
+            "ad_copy": "Spend your heaven doing good on earth with the Little Flower."
+        },
+        "st_cathrine": {
+            "display_name": "St. Catherine of Siena",
+            "title": "Mystic & Doctor",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Baldassare_Franceschini_-_Saint_Catherine_of_Siena.jpg/640px-Baldassare_Franceschini_-_Saint_Catherine_of_Siena.jpg",
+            "etsy_search_term": "set the world on fire catholic shirt",
+            "ad_copy": "Be who God meant you to be and you will set the world on fire."
+        },
+        "st_augustine": {
+            "display_name": "St. Augustine",
+            "title": "Doctor of Grace",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Saint_Augustine_by_Philippe_de_Champaigne.jpg/640px-Saint_Augustine_by_Philippe_de_Champaigne.jpg",
+            "etsy_search_term": "saint augustine confessions journal",
+            "ad_copy": "Our hearts are restless until they rest in Thee."
+        },
+        "st_benedict": {
+            "display_name": "St. Benedict",
+            "title": "Father of Western Monasticism",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/St_Benedict_of_Nursia_by_Herman_Nukk.jpg/640px-St_Benedict_of_Nursia_by_Herman_Nukk.jpg",
+            "etsy_search_term": "saint benedict medal bracelet protection",
+            "ad_copy": "Wear the St. Benedict Medal as a powerful shield against evil."
+        },
+        "st_dominic": {
+            "display_name": "St. Dominic",
+            "title": "Hound of the Lord",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Claudio_Coello_-_Saint_Dominic_of_Guzman_-_Google_Art_Project.jpg/640px-Claudio_Coello_-_Saint_Dominic_of_Guzman_-_Google_Art_Project.jpg",
+            "etsy_search_term": "catholic rosary beads wood",
+            "ad_copy": "Arm yourself with the Rosary, the weapon St. Dominic gave the world."
+        },
+        "st_ignatius": {
+            "display_name": "St. Ignatius of Loyola",
+            "title": "Soldier of Christ",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ignatius_Loyola.jpg/640px-Ignatius_Loyola.jpg",
+            "etsy_search_term": "ad maiorem dei gloriam shirt",
+            "ad_copy": "Do all things For the Greater Glory of God (AMDG)."
+        },
+        "st_faustina": {
+            "display_name": "St. Faustina",
+            "title": "Apostle of Mercy",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Saint_Faustina.jpg/640px-Saint_Faustina.jpg",
+            "etsy_search_term": "divine mercy jesus canvas art",
+            "ad_copy": "Jesus, I trust in You. Bring the Divine Mercy into your home."
+        },
+        "god":{
+            "display_name": "God",
+            "title": "The Father",
+            "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Saint_Faustina.jpg/640px-Saint_Faustina.jpg",
+            "etsy_search_term": "divine mercy jesus canvas art",
+            "ad_copy": "Father God, the one in Heaven reign in me."
+        }
+    },
     "prayers": [
         {
             "saint_id": "st_michael",
