@@ -3240,65 +3240,52 @@
             "prayer_id": 206
         },
         {
-            "saint_id": "st_faustina",
-            "title": "Comfort in Sorrow",
-            "prayer_text": "Saint Faustina, you knew the depth of Jesus' sorrow; come to me in my own time of grief and loss. Wrap my broken heart in the tender mercy of the Lord, who collects every tear in His bottle. Whisper to me the promise of the resurrection, where all sorrow will be turned into joy.",
-            "tags": [
-                "grief",
-                "hope"
-            ],
-            "biblical_reference": "Psalm 56:8",
-            "time_of_day": "afternoon",
-            "scripture": "\n\n8Thou tellest my wanderings: put thou my tears into thy bottle: are they not in thy book?",
-            "approved": true,
-            "checked": true,
-            "prayer_id": 207
-        },
-        {
-            "saint_id": "st_faustina",
-            "title": "Companion in Silence",
-            "prayer_text": "Beloved Bride of Christ, be my companion in the loneliness of this afternoon, for you found your fullness in the solitude with Jesus. Teach me to turn this silence into a conversation with the Divine Mercy, finding comfort in His abiding presence. Let me know that I am never alone while the Lord is near.",
-            "tags": [
-                "loneliness",
-                "healing"
-            ],
-            "biblical_reference": "Isaiah 41:10",
-            "time_of_day": "afternoon",
-            "scripture": "\u00b6 Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness. ",
-            "approved": true,
-            "checked": true,
-            "prayer_id": 208
-        },
-        {
-            "saint_id": "st_faustina",
-            "title": "Balm for the Wounded",
-            "prayer_text": "O Dispenser of God's Graces, look with pity upon my infirmities of body and soul as the day wanes. Ask the Divine Physician to pour His healing balm upon my wounds, trusting that His will is love and mercy itself. Strengthen my faith, that I may endure this trial with patience.",
-            "tags": [
-                "healing",
-                "courage"
-            ],
-            "biblical_reference": "Psalm 147:3",
-            "time_of_day": "afternoon",
-            "scripture": "He healeth the broken in heart, and bindeth up their wounds.",
-            "approved": true,
-            "checked": true,
-            "prayer_id": 209
-        },
-        {
-            "saint_id": "st_faustina",
-            "title": "Shield Against Despair",
-            "prayer_text": "Saint Faustina, shield of souls, protect me from the snares of despair and the whispers of the enemy in these later hours. When confusion seeks to cloud my judgment, point me to the rays of mercy that flow from the Heart of Jesus. Stand guard over my peace, that I may finish the day in grace.",
-            "tags": [
-                "protection",
-                "guidance"
-            ],
-            "biblical_reference": "Psalm 32:7",
-            "time_of_day": "afternoon",
-            "scripture": "\n\n7Thou art my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance. Selah.",
-            "approved": true,
-            "checked": true,
-            "prayer_id": 210
-        }
-    ]
-
+      "saint_id": "st_faustina",
+      "title": "Comfort in Sorrow",
+      "prayer_text": "Saint Faustina, you knew the depth of Jesus' sorrow; come to me in my own time of grief and loss. Wrap my broken heart in the tender mercy of the Lord, who collects every tear in His bottle. Whisper to me the promise of the resurrection, where all sorrow will be turned into joy.",
+      "tags": ["grief", "hope"],
+      "biblical_reference": "Psalm 56:8",
+      "time_of_day": "afternoon",
+      "scripture": "Thou tellest my wanderings: put thou my tears into thy bottle: are they not in thy book?",
+      "approved": true,
+      "checked": true,
+      "prayer_id": 207
+    },
+    {
+      "saint_id": "st_faustina",
+      "title": "Strength in Fear",
+      "prayer_text": "O Apostle of Mercy, when fear grips my heart, remind me of the Lord's command to fear not. Stand by me and strengthen my trust in His protecting hand. Let me hear His voice saying, 'I am with thee,' and find courage in His presence.",
+      "tags": ["anxiety", "courage"],
+      "biblical_reference": "Isaiah 41:10",
+      "time_of_day": "afternoon",
+      "scripture": "Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.",
+      "approved": true,
+      "checked": true,
+      "prayer_id": 208
+    },
+    {
+      "saint_id": "st_faustina",
+      "title": "Balm for the Wounded",
+      "prayer_text": "O Dispenser of God's Graces, look with pity upon my infirmities of body and soul as the day wanes. Ask the Divine Physician to pour His healing balm upon my wounds, trusting that His will is love and mercy itself. Strengthen my faith, that I may endure this trial with patience.",
+      "tags": ["healing", "courage"],
+      "biblical_reference": "Psalm 147:3",
+      "time_of_day": "afternoon",
+      "scripture": "He healeth the broken in heart, and bindeth up their wounds.",
+      "approved": true,
+      "checked": true,
+      "prayer_id": 209
+    },
+    {
+      "saint_id": "st_faustina",
+      "title": "Shield Against Despair",
+      "prayer_text": "Saint Faustina, shield of souls, protect me from the snares of despair and the whispers of the enemy in these later hours. When confusion seeks to cloud my judgment, point me to the rays of mercy that flow from the Heart of Jesus. Stand guard over my peace, that I may finish the day in grace.",
+      "tags": ["protection", "guidance"],
+      "biblical_reference": "Psalm 32:7",
+      "time_of_day": "afternoon",
+      "scripture": "Thou art my hiding place; thou shalt preserve me from trouble; thou shalt compass me about with songs of deliverance.",
+      "approved": true,
+      "checked": true,
+      "prayer_id": 210
+    }
+  ]
 }
